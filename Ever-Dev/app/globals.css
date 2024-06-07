@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.slick-slide .slick-active .slick-center .slick-current {
+  transition: all 0.5s ease-in-out !important;
+}
+.slick-current {
+  transform: scale(1.07) !important;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent !important;
+  background-color: unset;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #f04536d9;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #f04636;
+}
+
+.swiper-button-prev:after {
+  font-size: 20px !important;
+  color: black !important;
+  margin-left: -35px;
+}
+.swiper-button-next:after {
+  font-size: 20px !important;
+  color: black !important;
+  margin-right: -35px;
+}

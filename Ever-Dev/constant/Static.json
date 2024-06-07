@@ -1,0 +1,228 @@
+{
+  "NavItems": [
+    {
+      "name": "What we offer",
+      "To": "Services"
+    },
+    {
+      "name": "FAQs",
+      "To": "FrequentlyAskedQuestions"
+    }
+  ],
+  "companyServices": [
+    "UI/UX Design",
+    "Marketing",
+    "Web Apps",
+    "Android/IOS",
+    "Management systems",
+    "AI/ML",
+    "Smart Contract",
+    "SEO",
+    "AI",
+    "Branding",
+    "Web3.0",
+    "Simply anything :)"
+  ],
+  "clients": [
+    {
+      "img": "/Clients/airbnb.png",
+      "w": 205.77,
+      "h": 78.93
+    },
+    {
+      "img": "/Clients/AT.png",
+      "w": 116.96,
+      "h": 40
+    },
+    {
+      "img": "/Clients/proBusiness.png",
+      "w": 267.78,
+      "h": 78.93
+    },
+    {
+      "img": "/Clients/iDesign.png",
+      "w": 205.77,
+      "h": 78.93
+    },
+    {
+      "img": "/Clients/brook.png",
+      "w": 205.77,
+      "h": 78.93
+    },
+    {
+      "img": "/Clients/lukma.png",
+      "w": 236,
+      "h": 78.93
+    },
+    {
+      "img": "/Clients/dallmar.png",
+      "w": 122.62,
+      "h": 78.93
+    }
+  ],
+  "trustedBy": [
+    {
+      "img": "/Clients/airbnbsilver.png",
+      "w": 121.77,
+      "h": 50.93
+    },
+    {
+      "img": "/Clients/ATSilver.png",
+      "w": 121.77,
+      "h": 50.93
+    },
+    {
+      "img": "/Clients/proBusinessSilver.png",
+      "w": 166.78,
+      "h": 50.93
+    },
+    {
+      "img": "/Clients/iDesignSilver.png",
+      "w": 121.77,
+      "h": 50.93
+    },
+    {
+      "img": "/Clients/Brooksilver.png",
+      "w": 121.77,
+      "h": 50.93
+    },
+    {
+      "img": "/Clients/noguchiSilver.png",
+      "w": 121.77,
+      "h": 50.93
+    },
+    {
+      "img": "/Clients/okumaSilver.png",
+      "w": 143.77,
+      "h": 50.93
+    }
+  ],
+  "faqs": [
+    {
+      "heading": "How does EverDev's subscription model work?",
+      "content": "EverDev's subscription model offers a fixed monthly rate that grants you access to our team of developers. You can request unlimited projects within the subscription period, providing flexibility and cost-effectiveness."
+    },
+    {
+      "heading": "Can I cancel or pause my subscription at any time?",
+      "content": "Absolutely! We understand that circumstances may change. You have the freedom to cancel your subscription at any time or pause it if your project is completed before the end of the month. Pausing the subscription allows you to save the remaining time and resume when you need more work done."
+    },
+    {
+      "heading": "How fast will I receive my project?",
+      "content": "At EverDev, we aim to deliver projects within a time frame of 12-15 days. However, the exact duration may vary depending on the complexity and scope of the project. Rest assured, our dedicated team of developers will work diligently to ensure your project is completed promptly and to your satisfaction."
+    },
+    {
+      "heading": " Is there a limit to how many requests I can have?",
+      "content": "No, there is no limit to the number of requests you can have at EverDev. As a subscriber, you have the freedom to submit unlimited requests for website development or any related tasks, which will be worked on one at a time, allowing us to fully support your digital projects."
+    },
+    {
+      "heading": "What happens if my project is completed before the month's end?",
+      "content": "If your project is completed before the end of the subscription period, you can pause your subscription until you need more work. This allows you to maximize the value of your subscription and resume when the next project arises."
+    },
+    {
+      "heading": "How do I communicate my project requirements to EverDev?",
+      "content": "Once you've started your project, you'll gain access to a personal Trello board. This collaborative platform enables you to make requests one by one, provide project details, and communicate directly with our team. It ensures a streamlined and efficient process for project management."
+    },
+    {
+      "heading": "What types of projects can EverDev handle?",
+      "content": "EverDev has extensive experience in a wide range of projects, including website development, mobile app development, 3D design, e-commerce platforms, custom software solutions, and more. Whether it's a small website or a complex software application, we have the expertise to bring your ideas to life."
+    },
+    {
+      "heading": "What sets EverDev apart from other development services?",
+      "content": "EverDev stands out with its commitment to exceptional customer experiences, a flexible subscription model, the ability to cancel or pause subscriptions, unlimited projects, a collaborative approach, a skilled team of developers, and a focus on quality and innovation. We prioritize your satisfaction and strive to deliver remarkable results that surpass expectations."
+    },
+    {
+      "heading": "Have More Questions?",
+      "content": "If you have any other questions or need further clarification, feel free to book a call. We're here to assist you every step of the way! "
+    }
+  ],
+  "MemberShips": {
+    "whatsIncluded": [
+      "One request at a time",
+      "Unlimited brands",
+      "Unlimited users",
+      "Easy credit card payments",
+      "Pause or cancel anytime"
+    ]
+  },
+  "companiesWorkWith": [
+    {
+      "img": "/Companies/airbnb.png",
+      "w": 151.21,
+      "h": 58
+    },
+    {
+      "img": "/Companies/at&t.png",
+      "w": 151.21,
+      "h": 58
+    },
+    {
+      "img": "/Companies/brook.png",
+      "w": 151.21,
+      "h": 58
+    },
+    {
+      "img": "/Companies/iDesign.png",
+      "w": 151.21,
+      "h": 58
+    },
+    {
+      "img": "/Companies/proBusiness.png",
+      "w": 196.79,
+      "h": 58
+    },
+    {
+      "img": "/Companies/lokuma.png",
+      "w": 173.48,
+      "h": 58
+    },
+    {
+      "img": "/Companies/noguchi.png",
+      "w": 151.21,
+      "h": 58
+    }
+  ],
+  "animations": [
+    {
+      "type": "video",
+      "url": "/1.mp4"
+    },
+    {
+      "type": "video",
+      "url": "/2.mp4"
+    },
+    {
+      "type": "video",
+      "url": "/3.mp4"
+    },
+    {
+      "type": "gif",
+      "url": "/5.gif"
+    }
+  ],
+  "blogs": [
+    {
+      "img": "/blogs/blockchain.png",
+      "title": "Blockchain Beyond Cryptocurrency",
+      "des": "Blockchain, the system that powers cryptocurrencies like Bitcoin and Ethereum, is frequently used to refer to electronic money...",
+      "url": "/blogs/BlockchainBeyondCryptocurrency"
+    },
+    {
+      "img": "/blogs/Image Optimization.jpg",
+      "title": "Image Optimization: Balancing Quality and Page Speed",
+      "des": "In the digital age, images play a crucial role in enhancing user experience, making websites more engaging and visually appealing...",
+      "url": "/blogs/ImageOptimization"
+    },
+    {
+      "img": "/blogs/Agency journey.jpg",
+      "title": "Innovate. Inspire. Create: A Web Agency's Journey",
+      "des": "In the dynamic, ever-evolving world of digital marketing, a web agency's journey is often marked by three key pillars: Innovation...",
+      "url": "/blogs/WebAgencyJourney"
+    },
+    {
+      "img": "/blogs/image-002.jpg",
+      "title": "Web Design Trends to Watch in 2023",
+      "des": "For businesses trying to leave a lasting impression on their consumers in the fast-paced world of design, keeping up with the most...",
+      "url": "/blogs/WebDesignTrends2023"
+    }
+  ]
+}
