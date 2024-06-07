@@ -1,0 +1,23 @@
+[
+  {
+    "name": "John Spiegel",
+    "rank": "Director of Network Transformation (Field CTO)",
+    "star": [1, 2, 3, 4, 5],
+    "img": "John.jpg",
+    "description": "“As someone who has spent time as both a customer and a vendor, one of the top challenges IT leaders have is time to evaluate emerging startups to compare them with established vendors. Reaching out involves the risk of a flurry of cold calls, emails and similar outreach. It makes the process time consuming, confusing and, worse, annoying. What Konnect.io will do is bridge this gap and make it easy to compare new and established vendors with direct engagement on the IT leaderʼs terms. This is something the industry has needed from both the customer and vendor perspective. Konnect.io will redefine the relationship between vendors and prospective customers in evaluating cybersecurity solutions.”"
+  },
+  {
+    "name": "Hugo Isaac",
+    "rank": "Sr. Director of Demand Generation",
+    "star": [1, 2, 3, 4, 5],
+    "img": "hugo.png",
+    "description": "“Konnect.io is a much needed dedicated cybersecurity marketplace that empowers both buyers and vendors. For buyers, a one stop location for research and education, and for Vendors, an excellent source of engaged prospective buyers.”"
+  },
+  {
+    "name": "Jerich Beason",
+    "rank": "Chief Information Security Officer (Fortune 200 Company)",
+    "star": [1, 2, 3, 4, 5],
+    "img": "David_Bowden.jpeg",
+    "description": "“This product serves as a crucial bridge between CISOs and vendors, addressing a pressing need in the industry. It eliminates the frustrations of dealing with Chinese firewalls or resorting to cold calling for information. Instead, it facilitates a mutually beneficial relationship between security practitioners and vendors. By streamlining processes, it simplifies our lives, removing unnecessary hurdles that have impeded progress. It empowers security committees to elevate their practices and ensure the right products are accessible to those who truly need them. Overall, this product helps us meet each other's needs effectively and efficiently.”"
+  }
+]

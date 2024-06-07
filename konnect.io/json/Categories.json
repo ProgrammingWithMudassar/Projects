@@ -1,0 +1,90 @@
+[
+  {
+    "label": "Data Protection",
+    "value": "DataProtection"
+  },
+  {
+    "label": "Identity Management",
+    "value": "IdentityManagement"
+  },
+  {
+    "label": "Data Access Governance",
+    "value": "DataAccessGovernance"
+  },
+  {
+    "label": "Privileged Access Management",
+    "value": "PrivilegedAccessManagement"
+  },
+  {
+    "label": "Access Governance",
+    "value": "AccessGovernanse"
+  },
+  {
+    "label": "Cloud Security",
+    "value": "CloudSecurity"
+  },
+  {
+    "label": "Foundational Security",
+    "value": "FoundationalSecurity"
+  },
+  {
+    "label": "Security Operations",
+    "value": "SecurityOperations"
+  },
+  {
+    "label": "Risk & Compliance",
+    "value": "RiskCompliance"
+  },
+  {
+    "label": "Application Security",
+    "value": "ApplicationSecurity"
+  },
+  {
+    "label": "Blockchain",
+    "value": "Blockchain"
+  },
+  {
+    "label": "Endpoint Security",
+    "value": "EndpointSecurity"
+  },
+  {
+    "label": "Network Security",
+    "value": "NetworkSecurity"
+  },
+  {
+    "label": "Threat Intelligence",
+    "value": "ThreatIntelligence"
+  },
+  {
+    "label": "Security Awareness Training:",
+    "value": "SecurityAwarenessTraining:"
+  },
+  {
+    "label": "Incident Response",
+    "value": "IncidentResponse"
+  },
+  {
+    "label": "IoT Security",
+    "value": "IotSecurity"
+  },
+  {
+    "label": "Mobile Security",
+    "value": "MobileSecurity"
+  },
+  {
+    "label": "Email Security",
+    "value": "EmailSecurity"
+  },
+  {
+    "label": "Security Information and Event Management (SIEM)",
+    "value": "SIEM"
+  },
+  {
+    "label": "DDoS Protection",
+    "value": "DDOSProtection"
+  },
+  {
+    "label": "Web Security",
+    "value": "WebSecurity"
+  }
+]

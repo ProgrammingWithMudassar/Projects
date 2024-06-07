@@ -1,0 +1,22 @@
+[
+  {
+    "name": "explore",
+    "route": "/konnector/explore"
+  },
+  {
+    "name": "konnects",
+    "route": "/konnector/konnects"
+  },
+  {
+    "name": "new",
+    "route": "/konnector/new"
+  },
+  {
+    "name": "Saved Vendors",
+    "route": "/konnector/savedVendors"
+  },
+  {
+    "name": "settings",
+    "route": "/konnector/settings"
+  }
+]

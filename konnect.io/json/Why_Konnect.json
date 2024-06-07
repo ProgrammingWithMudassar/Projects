@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "title":"A New Era of Connections",
+        "desc":"At Konnect.io, we're pioneering a revolution in digital interactions. In a world filled with clutter, we bridge the gap, ensuring genuine, anonymous connections that are meaningful and efficient.",
+        "image":"Era.jpeg"
+    },
+    {
+        "id":2,
+        "title":"Absolute Privacy & Integrity",
+        "desc":"Your privacy is paramount. Konnect.io stands by a powerful promise: We do not sell user information. By safeguarding your data, we cultivate an atmosphere of trust, ensuring your interactions remain confidential and genuine.",
+        "image":"Privacy.jpeg"
+    },
+    {
+        "id":3,
+        "title":"AI-Driven Personal Recommendations",
+        "desc":"Harnessing the power of AI, Konnect.io offers personalized connection suggestions. This ensures every link is not just intuitive, but also tailored to both parties' needs, maximizing the value of each connection.",
+        "image":"AI.jpeg"
+    },
+    {
+        "id":4,
+        "title":"Fairness in Every Connection",
+        "desc":"Konnect.io is grounded in equality. By being a non-pay-to-play platform, we ensure every participant receives opportunities based on merit and relevance. This guarantees that our connections are made based on alignment and quality, rather than financial motivations.",
+        "image":"Fairness.jpeg"
+    },
+    {
+        "id":5,
+        "title":"Empowering Interactions",
+        "desc":"With transparency at our core, Konnect.io offers both parties access to vital information, paving the way for informed and beneficial interactions. ",
+        "image":"Empowering.jpeg"
+    },
+    {
+        "id":6,
+        "title":"Dedicated Support",
+        "desc":" Your success is our priority. Our team is consistently available to aid, guide, and provide insights, ensuring you make the most of every connection.",
+        "image":"Support.jpeg"
+    }
+]

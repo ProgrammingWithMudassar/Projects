@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Kodie Kennedy",
+    "role": "Founder, Chairman, CEO",
+    "img": "Kodie_Kennedy.jpeg",
+    "linkedIn": "",
+    "mail": ""
+  },
+  {
+    "name": "Abbas Ali",
+    "role": "chief technology officer",
+    "img": "Abbas_Ali.jpeg",
+    "linkedIn": "",
+    "mail": ""
+  },
+  {
+    "name": "Nolan Martin",
+    "role": "Software Engineer",
+    "img": "Nolan_Martin.jpeg",
+    "linkedIn": "",
+    "mail": ""
+  },
+  {
+    "name": "David Bowden",
+    "role": "Board Advisor",
+    "img": "David_Bowden.jpeg",
+    "linkedIn": "",
+    "mail": ""
+  },
+  {
+    "name": "Alexis Deg",
+    "role": "Board Secretary",
+    "img": "Alexis_Deg.JPEG",
+    "linkedIn": "",
+    "mail": ""
+  },
+  {
+    "name": "Chris Zamora",
+    "role": "Board Advisor",
+    "img": "Chris_Zamora.jpeg",
+    "linkedIn": "",
+    "mail": ""
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "dashboard",
+    "route": "/vendor/dashboard"
+  },
+  {
+    "name": "konnects",
+    "route": "/vendor/konnects"
+  },
+  {
+    "name": "users",
+    "route": "/vendor/users"
+  },
+  {
+    "name": "billing",
+    "route": "/vendor/billing"
+  },
+  {
+    "name": "settings",
+    "route": "/vendor/setting"
+  }
+]

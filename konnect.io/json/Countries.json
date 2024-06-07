@@ -1,0 +1,4463 @@
+[
+  {
+    "value": "USA",
+    "label": "United countries of America",
+    "countries": [
+      {
+        "value": "alabama",
+        "label": "Alabama",
+        "cities": [
+          {
+            "value": "birmingham",
+            "label": "Birmingham"
+          },
+          {
+            "value": "montgomery",
+            "label": "Montgomery"
+          },
+          {
+            "value": "mobile",
+            "label": "Mobile"
+          },
+          {
+            "value": "huntsville",
+            "label": "Huntsville"
+          },
+          {
+            "value": "tuscaloosa",
+            "label": "Tuscaloosa"
+          }
+        ]
+      },
+      {
+        "value": "alaska",
+        "label": "Alaska",
+        "cities": [
+          {
+            "value": "anchorage",
+            "label": "Anchorage"
+          },
+          {
+            "value": "fairbanks",
+            "label": "Fairbanks"
+          },
+          {
+            "value": "juneau",
+            "label": "Juneau"
+          },
+          {
+            "value": "sitka",
+            "label": "Sitka"
+          },
+          {
+            "value": "wasilla",
+            "label": "Wasilla"
+          }
+        ]
+      },
+      {
+        "value": "arizona",
+        "label": "Arizona",
+        "cities": [
+          {
+            "value": "phoenix",
+            "label": "Phoenix"
+          },
+          {
+            "value": "tucson",
+            "label": "Tucson"
+          },
+          {
+            "value": "mesa",
+            "label": "Mesa"
+          },
+          {
+            "value": "chandler",
+            "label": "Chandler"
+          },
+          {
+            "value": "scottsdale",
+            "label": "Scottsdale"
+          }
+        ]
+      },
+      {
+        "value": "arkansas",
+        "label": "Arkansas",
+        "cities": [
+          {
+            "value": "littlerock",
+            "label": "Little Rock"
+          },
+          {
+            "value": "fortsmith",
+            "label": "Fort Smith"
+          },
+          {
+            "value": "fayetteville",
+            "label": "Fayetteville"
+          },
+          {
+            "value": "springdale",
+            "label": "Springdale"
+          },
+          {
+            "value": "jonesboro",
+            "label": "Jonesboro"
+          }
+        ]
+      },
+      {
+        "value": "california",
+        "label": "California",
+        "cities": [
+          {
+            "value": "losangeles",
+            "label": "Los Angeles"
+          },
+          {
+            "value": "sanfrancisco",
+            "label": "San Francisco"
+          },
+          {
+            "value": "sandiego",
+            "label": "San Diego"
+          },
+          {
+            "value": "sanjose",
+            "label": "San Jose"
+          },
+          {
+            "value": "sacramento",
+            "label": "Sacramento"
+          }
+        ]
+      },
+      {
+        "value": "colorado",
+        "label": "Colorado",
+        "cities": [
+          {
+            "value": "denver",
+            "label": "Denver"
+          },
+          {
+            "value": "coloradosprings",
+            "label": "Colorado Springs"
+          },
+          {
+            "value": "aurora",
+            "label": "Aurora"
+          },
+          {
+            "value": "fortcollins",
+            "label": "Fort Collins"
+          },
+          {
+            "value": "boulder",
+            "label": "Boulder"
+          }
+        ]
+      },
+      {
+        "value": "connecticut",
+        "label": "Connecticut",
+        "cities": [
+          {
+            "value": "hartford",
+            "label": "Hartford"
+          },
+          {
+            "value": "newhaven",
+            "label": "New Haven"
+          },
+          {
+            "value": "stamford",
+            "label": "Stamford"
+          },
+          {
+            "value": "bridgeport",
+            "label": "Bridgeport"
+          },
+          {
+            "value": "waterbury",
+            "label": "Waterbury"
+          }
+        ]
+      },
+      {
+        "value": "delaware",
+        "label": "Delaware",
+        "cities": [
+          {
+            "value": "wilmington",
+            "label": "Wilmington"
+          },
+          {
+            "value": "dover",
+            "label": "Dover"
+          },
+          {
+            "value": "newark",
+            "label": "Newark"
+          },
+          {
+            "value": "middletown",
+            "label": "Middletown"
+          },
+          {
+            "value": "smyrna",
+            "label": "Smyrna"
+          }
+        ]
+      },
+      {
+        "value": "florida",
+        "label": "Florida",
+        "cities": [
+          {
+            "value": "miami",
+            "label": "Miami"
+          },
+          {
+            "value": "orlando",
+            "label": "Orlando"
+          },
+          {
+            "value": "tampa",
+            "label": "Tampa"
+          },
+          {
+            "value": "jacksonville",
+            "label": "Jacksonville"
+          },
+          {
+            "value": "tallahassee",
+            "label": "Tallahassee"
+          }
+        ]
+      },
+      {
+        "value": "georgia",
+        "label": "Georgia",
+        "cities": [
+          {
+            "value": "atlanta",
+            "label": "Atlanta"
+          },
+          {
+            "value": "augusta",
+            "label": "Augusta"
+          },
+          {
+            "value": "columbus",
+            "label": "Columbus"
+          },
+          {
+            "value": "savannah",
+            "label": "Savannah"
+          },
+          {
+            "value": "athens",
+            "label": "Athens"
+          }
+        ]
+      },
+      {
+        "value": "hawaii",
+        "label": "Hawaii",
+        "cities": [
+          {
+            "value": "honolulu",
+            "label": "Honolulu"
+          },
+          {
+            "value": "hilo",
+            "label": "Hilo"
+          },
+          {
+            "value": "kailua",
+            "label": "Kailua"
+          },
+          {
+            "value": "kapolei",
+            "label": "Kapolei"
+          },
+          {
+            "value": "kahului",
+            "label": "Kahului"
+          }
+        ]
+      },
+      {
+        "value": "idaho",
+        "label": "Idaho",
+        "cities": [
+          {
+            "value": "boise",
+            "label": "Boise"
+          },
+          {
+            "value": "idahofalls",
+            "label": "Idaho Falls"
+          },
+          {
+            "value": "meridian",
+            "label": "Meridian"
+          },
+          {
+            "value": "coeurd'alene",
+            "label": "Coeur d'Alene"
+          },
+          {
+            "value": "nampa",
+            "label": "Nampa"
+          }
+        ]
+      },
+      {
+        "value": "illinois",
+        "label": "Illinois",
+        "cities": [
+          {
+            "value": "chicago",
+            "label": "Chicago"
+          },
+          {
+            "value": "springfield",
+            "label": "Springfield"
+          },
+          {
+            "value": "peoria",
+            "label": "Peoria"
+          },
+          {
+            "value": "rockford",
+            "label": "Rockford"
+          },
+          {
+            "value": "naperville",
+            "label": "Naperville"
+          }
+        ]
+      },
+      {
+        "value": "indiana",
+        "label": "Indiana",
+        "cities": [
+          {
+            "value": "indianapolis",
+            "label": "Indianapolis"
+          },
+          {
+            "value": "fortwayne",
+            "label": "Fort Wayne"
+          },
+          {
+            "value": "evansville",
+            "label": "Evansville"
+          },
+          {
+            "value": "southbend",
+            "label": "South Bend"
+          },
+          {
+            "value": "carmel",
+            "label": "Carmel"
+          }
+        ]
+      },
+      {
+        "value": "iowa",
+        "label": "Iowa",
+        "cities": [
+          {
+            "value": "desmoines",
+            "label": "Des Moines"
+          },
+          {
+            "value": "cedarrapids",
+            "label": "Cedar Rapids"
+          },
+          {
+            "value": "davenport",
+            "label": "Davenport"
+          },
+          {
+            "value": "siouxcity",
+            "label": "Sioux City"
+          },
+          {
+            "value": "iowacity",
+            "label": "Iowa City"
+          }
+        ]
+      },
+      {
+        "value": "kansas",
+        "label": "Kansas",
+        "cities": [
+          {
+            "value": "wichita",
+            "label": "Wichita"
+          },
+          {
+            "value": "topeka",
+            "label": "Topeka"
+          },
+          {
+            "value": "kansascity",
+            "label": "Kansas City"
+          },
+          {
+            "value": "overlandpark",
+            "label": "Overland Park"
+          },
+          {
+            "value": "olathe",
+            "label": "Olathe"
+          }
+        ]
+      },
+      {
+        "value": "kentucky",
+        "label": "Kentucky",
+        "cities": [
+          {
+            "value": "louisville",
+            "label": "Louisville"
+          },
+          {
+            "value": "lexington",
+            "label": "Lexington"
+          },
+          {
+            "value": "bowlinggreen",
+            "label": "Bowling Green"
+          },
+          {
+            "value": "owensboro",
+            "label": "Owensboro"
+          },
+          {
+            "value": "covington",
+            "label": "Covington"
+          }
+        ]
+      },
+      {
+        "value": "louisiana",
+        "label": "Louisiana",
+        "cities": [
+          {
+            "value": "neworleans",
+            "label": "New Orleans"
+          },
+          {
+            "value": "batonrouge",
+            "label": "Baton Rouge"
+          },
+          {
+            "value": "shreveport",
+            "label": "Shreveport"
+          },
+          {
+            "value": "lafayette",
+            "label": "Lafayette"
+          },
+          {
+            "value": "lakecharles",
+            "label": "Lake Charles"
+          }
+        ]
+      },
+      {
+        "value": "maine",
+        "label": "Maine",
+        "cities": [
+          {
+            "value": "portland",
+            "label": "Portland"
+          },
+          {
+            "value": "bangor",
+            "label": "Bangor"
+          },
+          {
+            "value": "lewiston",
+            "label": "Lewiston"
+          },
+          {
+            "value": "auburn",
+            "label": "Auburn"
+          },
+          {
+            "value": "southportland",
+            "label": "South Portland"
+          }
+        ]
+      },
+      {
+        "value": "maryland",
+        "label": "Maryland",
+        "cities": [
+          {
+            "value": "baltimore",
+            "label": "Baltimore"
+          },
+          {
+            "value": "annapolis",
+            "label": "Annapolis"
+          },
+          {
+            "value": "frederick",
+            "label": "Frederick"
+          },
+          {
+            "value": "gaithersburg",
+            "label": "Gaithersburg"
+          },
+          {
+            "value": "rockville",
+            "label": "Rockville"
+          }
+        ]
+      },
+      {
+        "value": "massachusetts",
+        "label": "Massachusetts",
+        "cities": [
+          {
+            "value": "boston",
+            "label": "Boston"
+          },
+          {
+            "value": "worcester",
+            "label": "Worcester"
+          },
+          {
+            "value": "springfield",
+            "label": "Springfield"
+          },
+          {
+            "value": "cambridge",
+            "label": "Cambridge"
+          },
+          {
+            "value": "lowell",
+            "label": "Lowell"
+          }
+        ]
+      },
+      {
+        "value": "michigan",
+        "label": "Michigan",
+        "cities": [
+          {
+            "value": "detroit",
+            "label": "Detroit"
+          },
+          {
+            "value": "grandrapids",
+            "label": "Grand Rapids"
+          },
+          {
+            "value": "lansing",
+            "label": "Lansing"
+          },
+          {
+            "value": "annarbor",
+            "label": "Ann Arbor"
+          },
+          {
+            "value": "flint",
+            "label": "Flint"
+          }
+        ]
+      },
+      {
+        "value": "minnesota",
+        "label": "Minnesota",
+        "cities": [
+          {
+            "value": "minneapolis",
+            "label": "Minneapolis"
+          },
+          {
+            "value": "stpaul",
+            "label": "St. Paul"
+          },
+          {
+            "value": "rochester",
+            "label": "Rochester"
+          },
+          {
+            "value": "duluth",
+            "label": "Duluth"
+          },
+          {
+            "value": "bloomington",
+            "label": "Bloomington"
+          }
+        ]
+      },
+      {
+        "value": "mississippi",
+        "label": "Mississippi",
+        "cities": [
+          {
+            "value": "jackson",
+            "label": "Jackson"
+          },
+          {
+            "value": "gulfport",
+            "label": "Gulfport"
+          },
+          {
+            "value": "southaven",
+            "label": "Southaven"
+          },
+          {
+            "value": "hattiesburg",
+            "label": "Hattiesburg"
+          },
+          {
+            "value": "biloxi",
+            "label": "Biloxi"
+          }
+        ]
+      },
+      {
+        "value": "missouri",
+        "label": "Missouri",
+        "cities": [
+          {
+            "value": "kansas city",
+            "label": "Kansas City"
+          },
+          {
+            "value": "st. louis",
+            "label": "St. Louis"
+          },
+          {
+            "value": "springfield",
+            "label": "Springfield"
+          },
+          {
+            "value": "columbia",
+            "label": "Columbia"
+          },
+          {
+            "value": "independence",
+            "label": "Independence"
+          }
+        ]
+      },
+      {
+        "value": "montana",
+        "label": "Montana",
+        "cities": [
+          {
+            "value": "billings",
+            "label": "Billings"
+          },
+          {
+            "value": "missoula",
+            "label": "Missoula"
+          },
+          {
+            "value": "great falls",
+            "label": "Great Falls"
+          },
+          {
+            "value": "bozeman",
+            "label": "Bozeman"
+          },
+          {
+            "value": "helena",
+            "label": "Helena"
+          }
+        ]
+      },
+      {
+        "value": "nebraska",
+        "label": "Nebraska",
+        "cities": [
+          {
+            "value": "omaha",
+            "label": "Omaha"
+          },
+          {
+            "value": "lincoln",
+            "label": "Lincoln"
+          },
+          {
+            "value": "bellevue",
+            "label": "Bellevue"
+          },
+          {
+            "value": "grand island",
+            "label": "Grand Island"
+          },
+          {
+            "value": "kearney",
+            "label": "Kearney"
+          }
+        ]
+      },
+      {
+        "value": "nevada",
+        "label": "Nevada",
+        "cities": [
+          {
+            "value": "las vegas",
+            "label": "Las Vegas"
+          },
+          {
+            "value": "reno",
+            "label": "Reno"
+          },
+          {
+            "value": "henderson",
+            "label": "Henderson"
+          },
+          {
+            "value": "north las vegas",
+            "label": "North Las Vegas"
+          },
+          {
+            "value": "sparks",
+            "label": "Sparks"
+          }
+        ]
+      },
+      {
+        "value": "new hampshire",
+        "label": "New Hampshire",
+        "cities": [
+          {
+            "value": "manchester",
+            "label": "Manchester"
+          },
+          {
+            "value": "nashua",
+            "label": "Nashua"
+          },
+          {
+            "value": "concord",
+            "label": "Concord"
+          },
+          {
+            "value": "dover",
+            "label": "Dover"
+          },
+          {
+            "value": "rochester",
+            "label": "Rochester"
+          }
+        ]
+      },
+      {
+        "value": "new jersey",
+        "label": "New Jersey",
+        "cities": [
+          {
+            "value": "newark",
+            "label": "Newark"
+          },
+          {
+            "value": "jersey city",
+            "label": "Jersey City"
+          },
+          {
+            "value": "paterson",
+            "label": "Paterson"
+          },
+          {
+            "value": "elizabeth",
+            "label": "Elizabeth"
+          },
+          {
+            "value": "trenton",
+            "label": "Trenton"
+          }
+        ]
+      },
+      {
+        "value": "new mexico",
+        "label": "New Mexico",
+        "cities": [
+          {
+            "value": "albuquerque",
+            "label": "Albuquerque"
+          },
+          {
+            "value": "santa fe",
+            "label": "Santa Fe"
+          },
+          {
+            "value": "las cruces",
+            "label": "Las Cruces"
+          },
+          {
+            "value": "roswell",
+            "label": "Roswell"
+          },
+          {
+            "value": "rio rancho",
+            "label": "Rio Rancho"
+          }
+        ]
+      },
+      {
+        "value": "new york",
+        "label": "New York",
+        "cities": [
+          {
+            "value": "new york city",
+            "label": "New York City"
+          },
+          {
+            "value": "buffalo",
+            "label": "Buffalo"
+          },
+          {
+            "value": "rochester",
+            "label": "Rochester"
+          },
+          {
+            "value": "syracuse",
+            "label": "Syracuse"
+          },
+          {
+            "value": "albany",
+            "label": "Albany"
+          }
+        ]
+      },
+      {
+        "value": "north carolina",
+        "label": "North Carolina",
+        "cities": [
+          {
+            "value": "charlotte",
+            "label": "Charlotte"
+          },
+          {
+            "value": "raleigh",
+            "label": "Raleigh"
+          },
+          {
+            "value": "greensboro",
+            "label": "Greensboro"
+          },
+          {
+            "value": "durham",
+            "label": "Durham"
+          },
+          {
+            "value": "winston-salem",
+            "label": "Winston-Salem"
+          }
+        ]
+      },
+      {
+        "value": "north dakota",
+        "label": "North Dakota",
+        "cities": [
+          {
+            "value": "fargo",
+            "label": "Fargo"
+          },
+          {
+            "value": "bismarck",
+            "label": "Bismarck"
+          },
+          {
+            "value": "grand forks",
+            "label": "Grand Forks"
+          },
+          {
+            "value": "minot",
+            "label": "Minot"
+          },
+          {
+            "value": "west fargo",
+            "label": "West Fargo"
+          }
+        ]
+      },
+      {
+        "value": "ohio",
+        "label": "Ohio",
+        "cities": [
+          {
+            "value": "columbus",
+            "label": "Columbus"
+          },
+          {
+            "value": "cleveland",
+            "label": "Cleveland"
+          },
+          {
+            "value": "cincinnati",
+            "label": "Cincinnati"
+          },
+          {
+            "value": "toledo",
+            "label": "Toledo"
+          },
+          {
+            "value": "akron",
+            "label": "Akron"
+          }
+        ]
+      },
+      {
+        "value": "oklahoma",
+        "label": "Oklahoma",
+        "cities": [
+          {
+            "value": "oklahoma city",
+            "label": "Oklahoma City"
+          },
+          {
+            "value": "tulsa",
+            "label": "Tulsa"
+          },
+          {
+            "value": "norman",
+            "label": "Norman"
+          },
+          {
+            "value": "broken arrow",
+            "label": "Broken Arrow"
+          },
+          {
+            "value": "lawton",
+            "label": "Lawton"
+          }
+        ]
+      },
+      {
+        "value": "oregon",
+        "label": "Oregon",
+        "cities": [
+          {
+            "value": "portland",
+            "label": "Portland"
+          },
+          {
+            "value": "salem",
+            "label": "Salem"
+          },
+          {
+            "value": "eugene",
+            "label": "Eugene"
+          },
+          {
+            "value": "gresham",
+            "label": "Gresham"
+          },
+          {
+            "value": "hillsboro",
+            "label": "Hillsboro"
+          }
+        ]
+      },
+      {
+        "value": "pennsylvania",
+        "label": "Pennsylvania",
+        "cities": [
+          {
+            "value": "philadelphia",
+            "label": "Philadelphia"
+          },
+          {
+            "value": "pittsburgh",
+            "label": "Pittsburgh"
+          },
+          {
+            "value": "harrisburg",
+            "label": "Harrisburg"
+          },
+          {
+            "value": "allentown",
+            "label": "Allentown"
+          },
+          {
+            "value": "erie",
+            "label": "Erie"
+          }
+        ]
+      },
+      {
+        "value": "rhode island",
+        "label": "Rhode Island",
+        "cities": [
+          {
+            "value": "providence",
+            "label": "Providence"
+          },
+          {
+            "value": "warwick",
+            "label": "Warwick"
+          },
+          {
+            "value": "cranston",
+            "label": "Cranston"
+          },
+          {
+            "value": "pawtucket",
+            "label": "Pawtucket"
+          },
+          {
+            "value": "east providence",
+            "label": "East Providence"
+          }
+        ]
+      },
+      {
+        "value": "south carolina",
+        "label": "South Carolina",
+        "cities": [
+          {
+            "value": "charleston",
+            "label": "Charleston"
+          },
+          {
+            "value": "columbia",
+            "label": "Columbia"
+          },
+          {
+            "value": "greenville",
+            "label": "Greenville"
+          },
+          {
+            "value": "mount pleasant",
+            "label": "Mount Pleasant"
+          },
+          {
+            "value": "rock hill",
+            "label": "Rock Hill"
+          }
+        ]
+      },
+      {
+        "value": "south dakota",
+        "label": "South Dakota",
+        "cities": [
+          {
+            "value": "sioux falls",
+            "label": "Sioux Falls"
+          },
+          {
+            "value": "rapid city",
+            "label": "Rapid City"
+          },
+          {
+            "value": "aberdeen",
+            "label": "Aberdeen"
+          },
+          {
+            "value": "brookings",
+            "label": "Brookings"
+          },
+          {
+            "value": "watertown",
+            "label": "Watertown"
+          }
+        ]
+      },
+      {
+        "value": "tennessee",
+        "label": "Tennessee",
+        "cities": [
+          {
+            "value": "nashville",
+            "label": "Nashville"
+          },
+          {
+            "value": "memphis",
+            "label": "Memphis"
+          },
+          {
+            "value": "knoxville",
+            "label": "Knoxville"
+          },
+          {
+            "value": "chattanooga",
+            "label": "Chattanooga"
+          },
+          {
+            "value": "clarksville",
+            "label": "Clarksville"
+          }
+        ]
+      },
+      {
+        "value": "texas",
+        "label": "Texas",
+        "cities": [
+          {
+            "value": "houston",
+            "label": "Houston"
+          },
+          {
+            "value": "dallas",
+            "label": "Dallas"
+          },
+          {
+            "value": "austin",
+            "label": "Austin"
+          },
+          {
+            "value": "san antonio",
+            "label": "San Antonio"
+          },
+          {
+            "value": "fort worth",
+            "label": "Fort Worth"
+          }
+        ]
+      },
+      {
+        "value": "utah",
+        "label": "Utah",
+        "cities": [
+          {
+            "value": "salt lake city",
+            "label": "Salt Lake City"
+          },
+          {
+            "value": "provo",
+            "label": "Provo"
+          },
+          {
+            "value": "west valley city",
+            "label": "West Valley City"
+          },
+          {
+            "value": "orem",
+            "label": "Orem"
+          },
+          {
+            "value": "ogden",
+            "label": "Ogden"
+          }
+        ]
+      },
+      {
+        "value": "vermont",
+        "label": "Vermont",
+        "cities": [
+          {
+            "value": "burlington",
+            "label": "Burlington"
+          },
+          {
+            "value": "south_burlington",
+            "label": "South Burlington"
+          },
+          {
+            "value": "rutland",
+            "label": "Rutland"
+          },
+          {
+            "value": "barre",
+            "label": "Barre"
+          },
+          {
+            "value": "montpelier",
+            "label": "Montpelier"
+          }
+        ]
+      },
+      {
+        "value": "virginia",
+        "label": "Virginia",
+        "cities": [
+          {
+            "value": "virginia_beach",
+            "label": "Virginia Beach"
+          },
+          {
+            "value": "richmond",
+            "label": "Richmond"
+          },
+          {
+            "value": "norfolk",
+            "label": "Norfolk"
+          },
+          {
+            "value": "chesapeake",
+            "label": "Chesapeake"
+          },
+          {
+            "value": "arlington",
+            "label": "Arlington"
+          }
+        ]
+      },
+      {
+        "value": "washington",
+        "label": "Washington",
+        "cities": [
+          {
+            "value": "seattle",
+            "label": "Seattle"
+          },
+          {
+            "value": "spokane",
+            "label": "Spokane"
+          },
+          {
+            "value": "tacoma",
+            "label": "Tacoma"
+          },
+          {
+            "value": "vancouver",
+            "label": "Vancouver"
+          },
+          {
+            "value": "bellevue",
+            "label": "Bellevue"
+          }
+        ]
+      },
+      {
+        "value": "west_virginia",
+        "label": "West Virginia",
+        "cities": [
+          {
+            "value": "charleston",
+            "label": "Charleston"
+          },
+          {
+            "value": "huntington",
+            "label": "Huntington"
+          },
+          {
+            "value": "morgantown",
+            "label": "Morgantown"
+          },
+          {
+            "value": "parkersburg",
+            "label": "Parkersburg"
+          },
+          {
+            "value": "wheeling",
+            "label": "Wheeling"
+          }
+        ]
+      },
+      {
+        "value": "wisconsin",
+        "label": "Wisconsin",
+        "cities": [
+          {
+            "value": "milwaukee",
+            "label": "Milwaukee"
+          },
+          {
+            "value": "madison",
+            "label": "Madison"
+          },
+          {
+            "value": "green_bay",
+            "label": "Green Bay"
+          },
+          {
+            "value": "kenosha",
+            "label": "Kenosha"
+          },
+          {
+            "value": "racine",
+            "label": "Racine"
+          }
+        ]
+      },
+      {
+        "value": "wyoming",
+        "label": "Wyoming",
+        "cities": [
+          {
+            "value": "cheyenne",
+            "label": "Cheyenne"
+          },
+          {
+            "value": "casper",
+            "label": "Casper"
+          },
+          {
+            "value": "laramie",
+            "label": "Laramie"
+          },
+          {
+            "value": "gillette",
+            "label": "Gillette"
+          },
+          {
+            "value": "rock_springs",
+            "label": "Rock Springs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "western europe",
+    "label": "Western Europe",
+    "countries": [
+      {
+        "value": "austria",
+        "label": "Austria",
+        "cities": [
+          {
+            "value": "vienna",
+            "label": "Vienna"
+          },
+          {
+            "value": "salzburg",
+            "label": "Salzburg"
+          },
+          {
+            "value": "graz",
+            "label": "Graz"
+          },
+          {
+            "value": "linz",
+            "label": "Linz"
+          },
+          {
+            "value": "innsbruck",
+            "label": "Innsbruck"
+          }
+        ]
+      },
+      {
+        "value": "belgium",
+        "label": "Belgium",
+        "cities": [
+          {
+            "value": "brussels",
+            "label": "Brussels"
+          },
+          {
+            "value": "antwerp",
+            "label": "Antwerp"
+          },
+          {
+            "value": "ghent",
+            "label": "Ghent"
+          },
+          {
+            "value": "bruges",
+            "label": "Bruges"
+          },
+          {
+            "value": "liège",
+            "label": "Liège"
+          }
+        ]
+      },
+      {
+        "value": "france",
+        "label": "France",
+        "cities": [
+          {
+            "value": "paris",
+            "label": "Paris"
+          },
+          {
+            "value": "marseille",
+            "label": "Marseille"
+          },
+          {
+            "value": "lyon",
+            "label": "Lyon"
+          },
+          {
+            "value": "toulouse",
+            "label": "Toulouse"
+          },
+          {
+            "value": "nice",
+            "label": "Nice"
+          },
+          {
+            "value": "bordeaux",
+            "label": "Bordeaux"
+          },
+          {
+            "value": "lille",
+            "label": "Lille"
+          },
+          {
+            "value": "nantes",
+            "label": "Nantes"
+          },
+          {
+            "value": "strasbourg",
+            "label": "Strasbourg"
+          },
+          {
+            "value": "montpellier",
+            "label": "Montpellier"
+          }
+        ]
+      },
+      {
+        "value": "germany",
+        "label": "Germany",
+        "cities": [
+          {
+            "value": "berlin",
+            "label": "Berlin"
+          },
+          {
+            "value": "hamburg",
+            "label": "Hamburg"
+          },
+          {
+            "value": "munich",
+            "label": "Munich"
+          },
+          {
+            "value": "cologne",
+            "label": "Cologne"
+          },
+          {
+            "value": "frankfurt",
+            "label": "Frankfurt"
+          },
+          {
+            "value": "stuttgart",
+            "label": "Stuttgart"
+          },
+          {
+            "value": "düsseldorf",
+            "label": "Düsseldorf"
+          },
+          {
+            "value": "dortmund",
+            "label": "Dortmund"
+          },
+          {
+            "value": "essen",
+            "label": "Essen"
+          },
+          {
+            "value": "bremen",
+            "label": "Bremen"
+          }
+        ]
+      },
+      {
+        "value": "ireland",
+        "label": "Ireland",
+        "cities": [
+          {
+            "value": "dublin",
+            "label": "Dublin"
+          },
+          {
+            "value": "cork",
+            "label": "Cork"
+          },
+          {
+            "value": "limerick",
+            "label": "Limerick"
+          },
+          {
+            "value": "galway",
+            "label": "Galway"
+          },
+          {
+            "value": "waterford",
+            "label": "Waterford"
+          }
+        ]
+      },
+      {
+        "value": "luxembourg",
+        "label": "Luxembourg",
+        "cities": [
+          {
+            "value": "luxembourg city",
+            "label": "Luxembourg City"
+          }
+        ]
+      },
+      {
+        "value": "netherlands",
+        "label": "Netherlands",
+        "cities": [
+          {
+            "value": "amsterdam",
+            "label": "Amsterdam"
+          },
+          {
+            "value": "rotterdam",
+            "label": "Rotterdam"
+          },
+          {
+            "value": "the hague",
+            "label": "The Hague"
+          },
+          {
+            "value": "utrecht",
+            "label": "Utrecht"
+          },
+          {
+            "value": "eindhoven",
+            "label": "Eindhoven"
+          },
+          {
+            "value": "tilburg",
+            "label": "Tilburg"
+          },
+          {
+            "value": "groningen",
+            "label": "Groningen"
+          },
+          {
+            "value": "almere stad",
+            "label": "Almere Stad"
+          }
+        ]
+      },
+      {
+        "value": "switzerland",
+        "label": "Switzerland",
+        "cities": [
+          {
+            "value": "zurich",
+            "label": "Zurich"
+          },
+          {
+            "value": "geneva",
+            "label": "Geneva"
+          },
+          {
+            "value": "basel",
+            "label": "Basel"
+          },
+          {
+            "value": "lausanne",
+            "label": "Lausanne"
+          },
+          {
+            "value": "bern",
+            "label": "Bern"
+          }
+        ]
+      },
+      {
+        "value": "united kingdom",
+        "label": "United Kingdom",
+        "cities": [
+          {
+            "value": "london",
+            "label": "London"
+          },
+          {
+            "value": "birmingham",
+            "label": "Birmingham"
+          },
+          {
+            "value": "manchester",
+            "label": "Manchester"
+          },
+          {
+            "value": "glasgow",
+            "label": "Glasgow"
+          },
+          {
+            "value": "liverpool",
+            "label": "Liverpool"
+          },
+          {
+            "value": "edinburgh",
+            "label": "Edinburgh"
+          },
+          {
+            "value": "bristol",
+            "label": "Bristol"
+          },
+          {
+            "value": "leeds",
+            "label": "Leeds"
+          },
+          {
+            "value": "sheffield",
+            "label": "Sheffield"
+          },
+          {
+            "value": "newcastle",
+            "label": "Newcastle"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "nordic",
+    "label": "Nordic",
+    "countries": [
+      {
+        "value": "denmark",
+        "label": "Denmark",
+        "cities": [
+          { "value": "copenhagen", "label": "Copenhagen" },
+          { "value": "aarhus", "label": "Aarhus" },
+          { "value": "odense", "label": "Odense" },
+          { "value": "aalborg", "label": "Aalborg" },
+          { "value": "esbjerg", "label": "Esbjerg" }
+        ]
+      },
+      {
+        "value": "finland",
+        "label": "Finland",
+        "cities": [
+          { "value": "helsinki", "label": "Helsinki" },
+          { "value": "espoo", "label": "Espoo" },
+          { "value": "tampere", "label": "Tampere" },
+          { "value": "vantaa", "label": "Vantaa" },
+          { "value": "oulu", "label": "Oulu" },
+          { "value": "turku", "label": "Turku" },
+          { "value": "jyväskylä", "label": "Jyväskylä" }
+        ]
+      },
+      {
+        "value": "iceland",
+        "label": "Iceland",
+        "cities": [
+          { "value": "reykjavik", "label": "Reykjavik" },
+          { "value": "akureyri", "label": "Akureyri" },
+          { "value": "kópavogur", "label": "Kópavogur" },
+          { "value": "hafnarfjörður", "label": "Hafnarfjörður" },
+          { "value": "reykjanesbær", "label": "Reykjanesbær" }
+        ]
+      },
+      {
+        "value": "norway",
+        "label": "Norway",
+        "cities": [
+          { "value": "oslo", "label": "Oslo" },
+          { "value": "bergen", "label": "Bergen" },
+          { "value": "stavanger", "label": "Stavanger" },
+          { "value": "trondheim", "label": "Trondheim" },
+          { "value": "drammen", "label": "Drammen" },
+          { "value": "fredrikstad", "label": "Fredrikstad" }
+        ]
+      },
+      {
+        "value": "sweden",
+        "label": "Sweden",
+        "cities": [
+          { "value": "stockholm", "label": "Stockholm" },
+          { "value": "gothenburg", "label": "Gothenburg" },
+          { "value": "malmö", "label": "Malmö" },
+          { "value": "uppsala", "label": "Uppsala" },
+          { "value": "västerås", "label": "Västerås" },
+          { "value": "örebro", "label": "Örebro" },
+          { "value": "linköping", "label": "Linköping" },
+          { "value": "helsingborg", "label": "Helsingborg" }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "central and eastern europe (CEE)",
+    "label": "Central and Eastern Europe (CEE)",
+    "countries": [
+      {
+        "value": "germany:",
+        "label": "Germany:",
+        "cities": [
+          {
+            "value": "berlin",
+            "label": "Berlin"
+          },
+          {
+            "value": "hamburg",
+            "label": "Hamburg"
+          },
+          {
+            "value": "munich",
+            "label": "Munich"
+          },
+          {
+            "value": "cologne",
+            "label": "Cologne"
+          },
+          {
+            "value": "frankfurt",
+            "label": "Frankfurt"
+          },
+          {
+            "value": "stuttgart",
+            "label": "Stuttgart"
+          },
+          {
+            "value": "düsseldorf",
+            "label": "Düsseldorf"
+          }
+        ]
+      },
+      {
+        "value": "austria:",
+        "label": "Austria:",
+        "cities": [
+          {
+            "value": "vienna",
+            "label": "Vienna"
+          },
+          {
+            "value": "graz",
+            "label": "Graz"
+          },
+          {
+            "value": "linz",
+            "label": "Linz"
+          },
+          {
+            "value": "salzburg",
+            "label": "Salzburg"
+          },
+          {
+            "value": "innsbruck",
+            "label": "Innsbruck"
+          }
+        ]
+      },
+      {
+        "value": "switzerland:",
+        "label": "Switzerland:",
+        "cities": [
+          {
+            "value": "zurich",
+            "label": "Zurich"
+          },
+          {
+            "value": "geneva",
+            "label": "Geneva"
+          },
+          {
+            "value": "basel",
+            "label": "Basel"
+          },
+          {
+            "value": "bern",
+            "label": "Bern"
+          },
+          {
+            "value": "lausanne",
+            "label": "Lausanne"
+          }
+        ]
+      },
+      {
+        "value": "poland:",
+        "label": "Poland:",
+        "cities": [
+          {
+            "value": "warsaw",
+            "label": "Warsaw"
+          },
+          {
+            "value": "kraków",
+            "label": "Kraków"
+          },
+          {
+            "value": "łódź",
+            "label": "Łódź"
+          },
+          {
+            "value": "wrocław",
+            "label": "Wrocław"
+          },
+          {
+            "value": "poznań",
+            "label": "Poznań"
+          }
+        ]
+      },
+      {
+        "value": "czech republic:",
+        "label": "Czech Republic:",
+        "cities": [
+          {
+            "value": "prague",
+            "label": "Prague"
+          },
+          {
+            "value": "brno",
+            "label": "Brno"
+          },
+          {
+            "value": "ostrava",
+            "label": "Ostrava"
+          },
+          {
+            "value": "plzeň",
+            "label": "Plzeň"
+          },
+          {
+            "value": "liberec",
+            "label": "Liberec"
+          }
+        ]
+      },
+      {
+        "value": "slovakia:",
+        "label": "Slovakia:",
+        "cities": [
+          {
+            "value": "bratislava",
+            "label": "Bratislava"
+          },
+          {
+            "value": "košice",
+            "label": "Košice"
+          },
+          {
+            "value": "prešov",
+            "label": "Prešov"
+          },
+          {
+            "value": "žilina",
+            "label": "Žilina"
+          },
+          {
+            "value": "nitra",
+            "label": "Nitra"
+          }
+        ]
+      },
+      {
+        "value": "hungary:",
+        "label": "Hungary:",
+        "cities": [
+          {
+            "value": "budapest",
+            "label": "Budapest"
+          },
+          {
+            "value": "debrecen",
+            "label": "Debrecen"
+          },
+          {
+            "value": "szeged",
+            "label": "Szeged"
+          },
+          {
+            "value": "miskolc",
+            "label": "Miskolc"
+          },
+          {
+            "value": "pécs",
+            "label": "Pécs"
+          }
+        ]
+      },
+      {
+        "value": "belarus:",
+        "label": "Belarus:",
+        "cities": [
+          {
+            "value": "minsk",
+            "label": "Minsk"
+          },
+          {
+            "value": "gomel",
+            "label": "Gomel"
+          },
+          {
+            "value": "mogilev",
+            "label": "Mogilev"
+          },
+          {
+            "value": "vitebsk",
+            "label": "Vitebsk"
+          },
+          {
+            "value": "grodno",
+            "label": "Grodno"
+          }
+        ]
+      },
+      {
+        "value": "bulgaria:",
+        "label": "Bulgaria:",
+        "cities": [
+          {
+            "value": "sofia",
+            "label": "Sofia"
+          },
+          {
+            "value": "plovdiv",
+            "label": "Plovdiv"
+          },
+          {
+            "value": "varna",
+            "label": "Varna"
+          },
+          {
+            "value": "burgas",
+            "label": "Burgas"
+          },
+          {
+            "value": "ruse",
+            "label": "Ruse"
+          }
+        ]
+      },
+      {
+        "value": "romania",
+        "label": "Romania",
+        "cities": [
+          {
+            "value": "bucharest",
+            "label": "Bucharest"
+          },
+          {
+            "value": "cluj-napoca",
+            "label": "Cluj-Napoca"
+          },
+          {
+            "value": "timișoara",
+            "label": "Timișoara"
+          },
+          {
+            "value": "iași",
+            "label": "Iași"
+          },
+          {
+            "value": "constanța",
+            "label": "Constanța"
+          }
+        ]
+      },
+      {
+        "value": "russia",
+        "label": "Russia",
+        "cities": [
+          {
+            "value": "moscow",
+            "label": "Moscow"
+          },
+          {
+            "value": "saint petersburg",
+            "label": "Saint Petersburg"
+          },
+          {
+            "value": "novgorod",
+            "label": "Novgorod"
+          },
+          {
+            "value": "kazan",
+            "label": "Kazan"
+          },
+          {
+            "value": "kaliningrad",
+            "label": "Kaliningrad"
+          }
+        ]
+      },
+      {
+        "value": "ukraine",
+        "label": "Ukraine",
+        "cities": [
+          {
+            "value": "kyiv",
+            "label": "Kyiv"
+          },
+          {
+            "value": "kharkiv",
+            "label": "Kharkiv"
+          },
+          {
+            "value": "odesa",
+            "label": "Odesa"
+          },
+          {
+            "value": "dnipro",
+            "label": "Dnipro"
+          },
+          {
+            "value": "donetsk",
+            "label": "Donetsk"
+          }
+        ]
+      },
+      {
+        "value": "moldova",
+        "label": "Moldova",
+        "cities": [
+          {
+            "value": "chișinău",
+            "label": "Chișinău"
+          },
+          {
+            "value": "tiraspol",
+            "label": "Tiraspol"
+          },
+          {
+            "value": "bălți",
+            "label": "Bălți"
+          },
+          {
+            "value": "bender",
+            "label": "Bender"
+          },
+          {
+            "value": "cahul",
+            "label": "Cahul"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "middle east",
+    "label": "Middle East",
+    "countries": [
+      {
+        "value": "bahrain",
+        "label": "Bahrain",
+        "cities": [
+          {
+            "value": "manama",
+            "label": "Manama"
+          },
+          {
+            "value": "riffa",
+            "label": "Riffa"
+          },
+          {
+            "value": "muharraq",
+            "label": "Muharraq"
+          },
+          {
+            "value": "hamad town",
+            "label": "Hamad Town"
+          },
+          {
+            "value": "a'ali",
+            "label": "A'ali"
+          }
+        ]
+      },
+      {
+        "value": "cyprus",
+        "label": "Cyprus",
+        "cities": [
+          {
+            "value": "nicosia",
+            "label": "Nicosia"
+          },
+          {
+            "value": "limassol",
+            "label": "Limassol"
+          },
+          {
+            "value": "larnaca",
+            "label": "Larnaca"
+          },
+          {
+            "value": "famagusta",
+            "label": "Famagusta"
+          },
+          {
+            "value": "paphos",
+            "label": "Paphos"
+          }
+        ]
+      },
+      {
+        "value": "iran",
+        "label": "Iran",
+        "cities": [
+          {
+            "value": "tehran",
+            "label": "Tehran"
+          },
+          {
+            "value": "mashhad",
+            "label": "Mashhad"
+          },
+          {
+            "value": "isfahan",
+            "label": "Isfahan"
+          },
+          {
+            "value": "karaj",
+            "label": "Karaj"
+          },
+          {
+            "value": "tabriz",
+            "label": "Tabriz"
+          }
+        ]
+      },
+      {
+        "value": "iraq",
+        "label": "Iraq",
+        "cities": [
+          {
+            "value": "baghdad",
+            "label": "Baghdad"
+          },
+          {
+            "value": "basra",
+            "label": "Basra"
+          },
+          {
+            "value": "mosul",
+            "label": "Mosul"
+          },
+          {
+            "value": "erbil",
+            "label": "Erbil"
+          },
+          {
+            "value": "kirkuk",
+            "label": "Kirkuk"
+          }
+        ]
+      },
+      {
+        "value": "israel",
+        "label": "Israel",
+        "cities": [
+          {
+            "value": "jerusalem",
+            "label": "Jerusalem"
+          },
+          {
+            "value": "tel aviv",
+            "label": "Tel Aviv"
+          },
+          {
+            "value": "haifa",
+            "label": "Haifa"
+          },
+          {
+            "value": "rishon lezion",
+            "label": "Rishon LeZion"
+          },
+          {
+            "value": "petah tikva",
+            "label": "Petah Tikva"
+          }
+        ]
+      },
+      {
+        "value": "jordan",
+        "label": "Jordan",
+        "cities": [
+          {
+            "value": "amman",
+            "label": "Amman"
+          },
+          {
+            "value": "zarqa",
+            "label": "Zarqa"
+          },
+          {
+            "value": "irbid",
+            "label": "Irbid"
+          },
+          {
+            "value": "russeifa",
+            "label": "Russeifa"
+          },
+          {
+            "value": "aqaba",
+            "label": "Aqaba"
+          }
+        ]
+      },
+      {
+        "value": "kuwait",
+        "label": "Kuwait",
+        "cities": [
+          {
+            "value": "kuwait city",
+            "label": "Kuwait City"
+          },
+          {
+            "value": "al ahmadi",
+            "label": "Al Ahmadi"
+          },
+          {
+            "value": "hawalli",
+            "label": "Hawalli"
+          },
+          {
+            "value": "as salimiyah",
+            "label": "As Salimiyah"
+          },
+          {
+            "value": "sabah as salim",
+            "label": "Sabah as Salim"
+          }
+        ]
+      },
+      {
+        "value": "lebanon",
+        "label": "Lebanon",
+        "cities": [
+          {
+            "value": "beirut",
+            "label": "Beirut"
+          },
+          {
+            "value": "tripoli",
+            "label": "Tripoli"
+          },
+          {
+            "value": "sidon",
+            "label": "Sidon"
+          },
+          {
+            "value": "tyre",
+            "label": "Tyre"
+          },
+          {
+            "value": "baalbek",
+            "label": "Baalbek"
+          }
+        ]
+      },
+      {
+        "value": "oman",
+        "label": "Oman",
+        "cities": [
+          {
+            "value": "muscat",
+            "label": "Muscat"
+          },
+          {
+            "value": "seeb",
+            "label": "Seeb"
+          },
+          {
+            "value": "salalah",
+            "label": "Salalah"
+          },
+          {
+            "value": "sohar",
+            "label": "Sohar"
+          },
+          {
+            "value": "nizwa",
+            "label": "Nizwa"
+          }
+        ]
+      },
+      {
+        "value": "qatar",
+        "label": "Qatar",
+        "cities": [
+          {
+            "value": "doha",
+            "label": "Doha"
+          },
+          {
+            "value": "al rayyan",
+            "label": "Al Rayyan"
+          },
+          {
+            "value": "umm salal mohammed",
+            "label": "Umm Salal Mohammed"
+          },
+          {
+            "value": "al wakrah",
+            "label": "Al Wakrah"
+          },
+          {
+            "value": "al khor",
+            "label": "Al Khor"
+          }
+        ]
+      },
+      {
+        "value": "saudi arabia",
+        "label": "Saudi Arabia",
+        "cities": [
+          {
+            "value": "riyadh",
+            "label": "Riyadh"
+          },
+          {
+            "value": "jeddah",
+            "label": "Jeddah"
+          },
+          {
+            "value": "mecca",
+            "label": "Mecca"
+          },
+          {
+            "value": "medina",
+            "label": "Medina"
+          },
+          {
+            "value": "dammam",
+            "label": "Dammam"
+          }
+        ]
+      },
+      {
+        "value": "syria",
+        "label": "Syria",
+        "cities": [
+          {
+            "value": "damascus",
+            "label": "Damascus"
+          },
+          {
+            "value": "aleppo",
+            "label": "Aleppo"
+          },
+          {
+            "value": "homs",
+            "label": "Homs"
+          },
+          {
+            "value": "latakia",
+            "label": "Latakia"
+          },
+          {
+            "value": "hama",
+            "label": "Hama"
+          }
+        ]
+      },
+      {
+        "value": "turkey",
+        "label": "Turkey",
+        "cities": [
+          {
+            "value": "istanbul",
+            "label": "Istanbul"
+          },
+          {
+            "value": "ankara",
+            "label": "Ankara"
+          },
+          {
+            "value": "izmir",
+            "label": "İzmir"
+          },
+          {
+            "value": "bursa",
+            "label": "Bursa"
+          },
+          {
+            "value": "adana",
+            "label": "Adana"
+          }
+        ]
+      },
+      {
+        "value": "united arab emirates",
+        "label": "United Arab Emirates",
+        "cities": [
+          {
+            "value": "abu dhabi",
+            "label": "Abu Dhabi"
+          },
+          {
+            "value": "dubai",
+            "label": "Dubai"
+          },
+          {
+            "value": "sharjah",
+            "label": "Sharjah"
+          },
+          {
+            "value": "al ain",
+            "label": "Al Ain"
+          },
+          {
+            "value": "ajman",
+            "label": "Ajman"
+          }
+        ]
+      },
+      {
+        "value": "yemen",
+        "label": "Yemen",
+        "cities": [
+          {
+            "value": "sana'a",
+            "label": "Sana'a"
+          },
+          {
+            "value": "aden",
+            "label": "Aden"
+          },
+          {
+            "value": "taiz",
+            "label": "Taiz"
+          },
+          {
+            "value": "al hudaydah",
+            "label": "Al Hudaydah"
+          },
+          {
+            "value": "mukalla",
+            "label": "Mukalla"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "africa",
+    "label": "Africa",
+    "countries": [
+      {
+        "value": "algeria",
+        "label": "Algeria",
+        "cities": [
+          {
+            "value": "algiers",
+            "label": "Algiers"
+          },
+          {
+            "value": "oran",
+            "label": "Oran"
+          },
+          {
+            "value": "constantine",
+            "label": "Constantine"
+          },
+          {
+            "value": "annaba",
+            "label": "Annaba"
+          },
+          {
+            "value": "blida",
+            "label": "Blida"
+          }
+        ]
+      },
+      {
+        "value": "angola",
+        "label": "Angola",
+        "cities": [
+          {
+            "value": "luanda",
+            "label": "Luanda"
+          },
+          {
+            "value": "n'dalatando",
+            "label": "N'dalatando"
+          },
+          {
+            "value": "huambo",
+            "label": "Huambo"
+          },
+          {
+            "value": "lobito",
+            "label": "Lobito"
+          },
+          {
+            "value": "benguela",
+            "label": "Benguela"
+          }
+        ]
+      },
+      {
+        "value": "botswana",
+        "label": "Botswana",
+        "cities": [
+          {
+            "value": "gaborone",
+            "label": "Gaborone"
+          },
+          {
+            "value": "francistown",
+            "label": "Francistown"
+          },
+          {
+            "value": "maun",
+            "label": "Maun"
+          },
+          {
+            "value": "serowe",
+            "label": "Serowe"
+          },
+          {
+            "value": "kanye",
+            "label": "Kanye"
+          }
+        ]
+      },
+      {
+        "value": "cameroon",
+        "label": "Cameroon",
+        "cities": [
+          {
+            "value": "yaoundé",
+            "label": "Yaoundé"
+          },
+          {
+            "value": "douala",
+            "label": "Douala"
+          },
+          {
+            "value": "garoua",
+            "label": "Garoua"
+          },
+          {
+            "value": "bamenda",
+            "label": "Bamenda"
+          },
+          {
+            "value": "maroua",
+            "label": "Maroua"
+          }
+        ]
+      },
+      {
+        "value": "côte d'ivoire",
+        "label": "Côte d'Ivoire",
+        "cities": [
+          {
+            "value": "abidjan",
+            "label": "Abidjan"
+          },
+          {
+            "value": "bouaké",
+            "label": "Bouaké"
+          },
+          {
+            "value": "daloa",
+            "label": "Daloa"
+          },
+          {
+            "value": "yamoussoukro",
+            "label": "Yamoussoukro"
+          },
+          {
+            "value": "san-pédro",
+            "label": "San-Pédro"
+          }
+        ]
+      },
+      {
+        "value": "democratic republic of the congo",
+        "label": "Democratic Republic of the Congo",
+        "cities": [
+          {
+            "value": "kinshasa",
+            "label": "Kinshasa"
+          },
+          {
+            "value": "lubumbashi",
+            "label": "Lubumbashi"
+          },
+          {
+            "value": "mbuji-mayi",
+            "label": "Mbuji-Mayi"
+          },
+          {
+            "value": "kisangani",
+            "label": "Kisangani"
+          },
+          {
+            "value": "masina",
+            "label": "Masina"
+          }
+        ]
+      },
+      {
+        "value": "egypt",
+        "label": "Egypt",
+        "cities": [
+          {
+            "value": "cairo",
+            "label": "Cairo"
+          },
+          {
+            "value": "alexandria",
+            "label": "Alexandria"
+          },
+          {
+            "value": "giza",
+            "label": "Giza"
+          },
+          {
+            "value": "shubra el kheima",
+            "label": "Shubra El Kheima"
+          },
+          {
+            "value": "port said",
+            "label": "Port Said"
+          }
+        ]
+      },
+      {
+        "value": "ethiopia",
+        "label": "Ethiopia",
+        "cities": [
+          {
+            "value": "addis ababa",
+            "label": "Addis Ababa"
+          },
+          {
+            "value": "dire dawa",
+            "label": "Dire Dawa"
+          },
+          {
+            "value": "mekele",
+            "label": "Mekele"
+          },
+          {
+            "value": "nazret",
+            "label": "Nazret"
+          },
+          {
+            "value": "bahir dar",
+            "label": "Bahir Dar"
+          }
+        ]
+      },
+      {
+        "value": "ghana",
+        "label": "Ghana",
+        "cities": [
+          {
+            "value": "accra",
+            "label": "Accra"
+          },
+          {
+            "value": "kumasi",
+            "label": "Kumasi"
+          },
+          {
+            "value": "tamale",
+            "label": "Tamale"
+          },
+          {
+            "value": "takoradi",
+            "label": "Takoradi"
+          },
+          {
+            "value": "ashiaman",
+            "label": "Ashiaman"
+          }
+        ]
+      },
+      {
+        "value": "kenya",
+        "label": "Kenya",
+        "cities": [
+          {
+            "value": "nairobi",
+            "label": "Nairobi"
+          },
+          {
+            "value": "mombasa",
+            "label": "Mombasa"
+          },
+          {
+            "value": "nakuru",
+            "label": "Nakuru"
+          },
+          {
+            "value": "eldoret",
+            "label": "Eldoret"
+          },
+          {
+            "value": "kisumu",
+            "label": "Kisumu"
+          }
+        ]
+      },
+      {
+        "value": "morocco",
+        "label": "Morocco",
+        "cities": [
+          {
+            "value": "casablanca",
+            "label": "Casablanca"
+          },
+          {
+            "value": "rabat",
+            "label": "Rabat"
+          },
+          {
+            "value": "fes",
+            "label": "Fes"
+          },
+          {
+            "value": "marrakech",
+            "label": "Marrakech"
+          },
+          {
+            "value": "tangier",
+            "label": "Tangier"
+          }
+        ]
+      },
+      {
+        "value": "nigeria",
+        "label": "Nigeria",
+        "cities": [
+          {
+            "value": "lagos",
+            "label": "Lagos"
+          },
+          {
+            "value": "abuja",
+            "label": "Abuja"
+          },
+          {
+            "value": "ibadan",
+            "label": "Ibadan"
+          },
+          {
+            "value": "kaduna",
+            "label": "Kaduna"
+          },
+          {
+            "value": "port harcourt",
+            "label": "Port Harcourt"
+          }
+        ]
+      },
+      {
+        "value": "south africa",
+        "label": "South Africa",
+        "cities": [
+          {
+            "value": "johannesburg",
+            "label": "Johannesburg"
+          },
+          {
+            "value": "cape town",
+            "label": "Cape Town"
+          },
+          {
+            "value": "durban",
+            "label": "Durban"
+          },
+          {
+            "value": "pretoria",
+            "label": "Pretoria"
+          },
+          {
+            "value": "port elizabeth",
+            "label": "Port Elizabeth"
+          }
+        ]
+      },
+      {
+        "value": "sudan",
+        "label": "Sudan",
+        "cities": [
+          {
+            "value": "khartoum",
+            "label": "Khartoum"
+          },
+          {
+            "value": "omdurman",
+            "label": "Omdurman"
+          },
+          {
+            "value": "port sudan",
+            "label": "Port Sudan"
+          },
+          {
+            "value": "kassala",
+            "label": "Kassala"
+          },
+          {
+            "value": "el obeid",
+            "label": "El Obeid"
+          }
+        ]
+      },
+      {
+        "value": "tanzania",
+        "label": "Tanzania",
+        "cities": [
+          {
+            "value": "dar es salaam",
+            "label": "Dar es Salaam"
+          },
+          {
+            "value": "arusha",
+            "label": "Arusha"
+          },
+          {
+            "value": "dodoma",
+            "label": "Dodoma"
+          },
+          {
+            "value": "mwanza",
+            "label": "Mwanza"
+          },
+          {
+            "value": "mbeya",
+            "label": "Mbeya"
+          }
+        ]
+      },
+      {
+        "value": "tunisia",
+        "label": "Tunisia",
+        "cities": [
+          {
+            "value": "tunis",
+            "label": "Tunis"
+          },
+          {
+            "value": "sfax",
+            "label": "Sfax"
+          },
+          {
+            "value": "sousse",
+            "label": "Sousse"
+          },
+          {
+            "value": "ettadhamen",
+            "label": "Ettadhamen"
+          },
+          {
+            "value": "kairouan",
+            "label": "Kairouan"
+          }
+        ]
+      },
+      {
+        "value": "uganda",
+        "label": "Uganda",
+        "cities": [
+          {
+            "value": "kampala",
+            "label": "Kampala"
+          },
+          {
+            "value": "gulu",
+            "label": "Gulu"
+          },
+          {
+            "value": "lira",
+            "label": "Lira"
+          },
+          {
+            "value": "mbarara",
+            "label": "Mbarara"
+          },
+          {
+            "value": "jinja",
+            "label": "Jinja"
+          }
+        ]
+      },
+      {
+        "value": "zimbabwe",
+        "label": "Zimbabwe",
+        "cities": [
+          {
+            "value": "harare",
+            "label": "Harare"
+          },
+          {
+            "value": "bulawayo",
+            "label": "Bulawayo"
+          },
+          {
+            "value": "chitungwiza",
+            "label": "Chitungwiza"
+          },
+          {
+            "value": "mutare",
+            "label": "Mutare"
+          },
+          {
+            "value": "epworth",
+            "label": "Epworth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "east asia",
+    "label": "East Asia",
+    "countries": [
+      {
+        "value": "china",
+        "label": "China",
+        "cities": [
+          {
+            "value": "beijing (capital)",
+            "label": "Beijing (Capital)"
+          },
+          {
+            "value": "shanghai",
+            "label": "Shanghai"
+          },
+          {
+            "value": "guangzhou",
+            "label": "Guangzhou"
+          },
+          {
+            "value": "shenzhen",
+            "label": "Shenzhen"
+          },
+          {
+            "value": "chengdu",
+            "label": "Chengdu"
+          },
+          {
+            "value": "wuhan",
+            "label": "Wuhan"
+          },
+          {
+            "value": "tianjin",
+            "label": "Tianjin"
+          },
+          {
+            "value": "hangzhou",
+            "label": "Hangzhou"
+          },
+          {
+            "value": "nanjing",
+            "label": "Nanjing"
+          },
+          {
+            "value": "chongqing",
+            "label": "Chongqing"
+          }
+        ]
+      },
+      {
+        "value": "japan",
+        "label": "Japan",
+        "cities": [
+          {
+            "value": "tokyo (capital)",
+            "label": "Tokyo (Capital)"
+          },
+          {
+            "value": "yokohama",
+            "label": "Yokohama"
+          },
+          {
+            "value": "osaka",
+            "label": "Osaka"
+          },
+          {
+            "value": "nagoya",
+            "label": "Nagoya"
+          },
+          {
+            "value": "sapporo",
+            "label": "Sapporo"
+          },
+          {
+            "value": "kawasaki",
+            "label": "Kawasaki"
+          },
+          {
+            "value": "kobe",
+            "label": "Kobe"
+          },
+          {
+            "value": "fukuoka",
+            "label": "Fukuoka"
+          },
+          {
+            "value": "kawasaki",
+            "label": "Kawasaki"
+          },
+          {
+            "value": "hiroshima",
+            "label": "Hiroshima"
+          }
+        ]
+      },
+      {
+        "value": "south korea",
+        "label": "South Korea",
+        "cities": [
+          {
+            "value": "seoul (capital)",
+            "label": "Seoul (Capital)"
+          },
+          {
+            "value": "busan",
+            "label": "Busan"
+          },
+          {
+            "value": "incheon",
+            "label": "Incheon"
+          },
+          {
+            "value": "daegu",
+            "label": "Daegu"
+          },
+          {
+            "value": "daejeon",
+            "label": "Daejeon"
+          },
+          {
+            "value": "gwangju",
+            "label": "Gwangju"
+          },
+          {
+            "value": "suwon",
+            "label": "Suwon"
+          },
+          {
+            "value": "ulsan",
+            "label": "Ulsan"
+          },
+          {
+            "value": "changwon",
+            "label": "Changwon"
+          },
+          {
+            "value": "seongnam",
+            "label": "Seongnam"
+          }
+        ]
+      },
+      {
+        "value": "north korea",
+        "label": "North Korea",
+        "cities": [
+          {
+            "value": "pyongyang (capital)",
+            "label": "Pyongyang (Capital)"
+          },
+          {
+            "value": "hamhung",
+            "label": "Hamhung"
+          },
+          {
+            "value": "chongjin",
+            "label": "Chongjin"
+          },
+          {
+            "value": "nampo",
+            "label": "Nampo"
+          },
+          {
+            "value": "wonsan",
+            "label": "Wonsan"
+          },
+          {
+            "value": "sinuiju",
+            "label": "Sinuiju"
+          },
+          {
+            "value": "tanchon",
+            "label": "Tanchon"
+          },
+          {
+            "value": "kaechon",
+            "label": "Kaechon"
+          },
+          {
+            "value": "kanggye",
+            "label": "Kanggye"
+          },
+          {
+            "value": "sariwon",
+            "label": "Sariwon"
+          }
+        ]
+      },
+      {
+        "value": "mongolia",
+        "label": "Mongolia",
+        "cities": [
+          {
+            "value": "ulaanbaatar (capital)",
+            "label": "Ulaanbaatar (Capital)"
+          },
+          {
+            "value": "erdenet",
+            "label": "Erdenet"
+          },
+          {
+            "value": "darkhan",
+            "label": "Darkhan"
+          },
+          {
+            "value": "choibalsan",
+            "label": "Choibalsan"
+          },
+          {
+            "value": "mörön",
+            "label": "Mörön"
+          }
+        ]
+      },
+      {
+        "value": "taiwan",
+        "label": "Taiwan",
+        "cities": [
+          {
+            "value": "taipei (capital)",
+            "label": "Taipei (Capital)"
+          },
+          {
+            "value": "kaohsiung",
+            "label": "Kaohsiung"
+          },
+          {
+            "value": "taichung",
+            "label": "Taichung"
+          },
+          {
+            "value": "tainan",
+            "label": "Tainan"
+          },
+          {
+            "value": "new taipei city",
+            "label": "New Taipei City"
+          },
+          {
+            "value": "taoyuan city",
+            "label": "Taoyuan City"
+          },
+          {
+            "value": "hsinchu",
+            "label": "Hsinchu"
+          },
+          {
+            "value": "keelung",
+            "label": "Keelung"
+          },
+          {
+            "value": "chiayi",
+            "label": "Chiayi"
+          },
+          {
+            "value": "taitung city",
+            "label": "Taitung City"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "southeast asia",
+    "label": "Southeast Asia",
+    "countries": [
+      {
+        "value": "brunei",
+        "label": "Brunei",
+        "cities": [
+          {
+            "value": "bandar seri begawan (capital)",
+            "label": "Bandar Seri Begawan (Capital)"
+          }
+        ]
+      },
+      {
+        "value": "cambodia",
+        "label": "Cambodia",
+        "cities": [
+          { "value": "phnom penh (capital)", "label": "Phnom Penh (Capital)" },
+          { "value": "siem reap", "label": "Siem Reap" },
+          { "value": "battambang", "label": "Battambang" },
+          { "value": "sihanoukville", "label": "Sihanoukville" }
+        ]
+      },
+      {
+        "value": "indonesia",
+        "label": "Indonesia",
+        "cities": [
+          { "value": "jakarta (capital)", "label": "Jakarta (Capital)" },
+          { "value": "surabaya", "label": "Surabaya" },
+          { "value": "bandung", "label": "Bandung" },
+          { "value": "medan", "label": "Medan" },
+          { "value": "semarang", "label": "Semarang" },
+          { "value": "yogyakarta", "label": "Yogyakarta" },
+          { "value": "denpasar (bali)", "label": "Denpasar (Bali)" },
+          { "value": "makassar", "label": "Makassar" }
+        ]
+      },
+      {
+        "value": "laos",
+        "label": "Laos",
+        "cities": [
+          { "value": "vientiane (capital)", "label": "Vientiane (Capital)" },
+          { "value": "luang prabang", "label": "Luang Prabang" },
+          { "value": "pakse", "label": "Pakse" },
+          { "value": "savannakhet", "label": "Savannakhet" }
+        ]
+      },
+      {
+        "value": "malaysia",
+        "label": "Malaysia",
+        "cities": [
+          {
+            "value": "kuala lumpur (capital)",
+            "label": "Kuala Lumpur (Capital)"
+          },
+          { "value": "george town (penang)", "label": "George Town (Penang)" },
+          { "value": "johor bahru", "label": "Johor Bahru" },
+          { "value": "ipoh", "label": "Ipoh" },
+          { "value": "kota kinabalu", "label": "Kota Kinabalu" },
+          { "value": "kuching", "label": "Kuching" },
+          { "value": "malacca city", "label": "Malacca City" },
+          { "value": "shah alam", "label": "Shah Alam" },
+          { "value": "petaling jaya", "label": "Petaling Jaya" }
+        ]
+      },
+      {
+        "value": "myanmar (burma)",
+        "label": "Myanmar (Burma)",
+        "cities": [
+          { "value": "naypyidaw (capital)", "label": "Naypyidaw (Capital)" },
+          { "value": "yangon", "label": "Yangon" },
+          { "value": "mandalay", "label": "Mandalay" },
+          { "value": "bago", "label": "Bago" },
+          { "value": "taunggyi", "label": "Taunggyi" }
+        ]
+      },
+      {
+        "value": "philippines",
+        "label": "Philippines",
+        "cities": [
+          { "value": "manila (capital)", "label": "Manila (Capital)" },
+          { "value": "quezon city", "label": "Quezon City" },
+          { "value": "makati", "label": "Makati" },
+          { "value": "davao city", "label": "Davao City" },
+          { "value": "cebu city", "label": "Cebu City" },
+          { "value": "zamboanga city", "label": "Zamboanga City" },
+          { "value": "taguig", "label": "Taguig" },
+          { "value": "pasig", "label": "Pasig" }
+        ]
+      },
+      {
+        "value": "singapore",
+        "label": "Singapore",
+        "cities": [
+          {
+            "value": "singapore city (capital)",
+            "label": "Singapore City (Capital)"
+          }
+        ]
+      },
+      {
+        "value": "thailand",
+        "label": "Thailand",
+        "cities": [
+          { "value": "bangkok (capital)", "label": "Bangkok (Capital)" },
+          { "value": "chiang mai", "label": "Chiang Mai" },
+          { "value": "pattaya", "label": "Pattaya" },
+          { "value": "phuket", "label": "Phuket" },
+          { "value": "ayutthaya", "label": "Ayutthaya" },
+          { "value": "khon kaen", "label": "Khon Kaen" },
+          { "value": "udon thani", "label": "Udon Thani" }
+        ]
+      },
+      {
+        "value": "timor-leste (east timor)",
+        "label": "Timor-Leste (East Timor)",
+        "cities": [{ "value": "dili (capital)", "label": "Dili (Capital)" }]
+      },
+      {
+        "value": "vietnam",
+        "label": "Vietnam",
+        "cities": [
+          { "value": "hanoi (capital)", "label": "Hanoi (Capital)" },
+          { "value": "ho chi minh city", "label": "Ho Chi Minh City" },
+          { "value": "da nang", "label": "Da Nang" },
+          { "value": "haiphong", "label": "Haiphong" },
+          { "value": "can tho", "label": "Can Tho" },
+          { "value": "hue", "label": "Hue" },
+          { "value": "nha trang", "label": "Nha Trang" }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "south asia",
+    "label": "South Asia",
+    "countries": [
+      {
+        "value": "afghanistan",
+        "label": "Afghanistan",
+        "cities": [
+          {
+            "value": "kabul",
+            "label": "Kabul (Capital)"
+          },
+          {
+            "value": "kandahar",
+            "label": "Kandahar"
+          },
+          {
+            "value": "herat",
+            "label": "Herat"
+          },
+          {
+            "value": "mazar-i-sharif",
+            "label": "Mazar-i-Sharif"
+          },
+          {
+            "value": "jalalabad",
+            "label": "Jalalabad"
+          }
+        ]
+      },
+      {
+        "value": "bangladesh",
+        "label": "Bangladesh",
+        "cities": [
+          {
+            "value": "dhaka",
+            "label": "Dhaka (Capital)"
+          },
+          {
+            "value": "chittagong",
+            "label": "Chittagong"
+          },
+          {
+            "value": "khulna",
+            "label": "Khulna"
+          },
+          {
+            "value": "rajshahi",
+            "label": "Rajshahi"
+          },
+          {
+            "value": "sylhet",
+            "label": "Sylhet"
+          },
+          {
+            "value": "barisal",
+            "label": "Barisal"
+          },
+          {
+            "value": "rangpur",
+            "label": "Rangpur"
+          }
+        ]
+      },
+      {
+        "value": "bhutan",
+        "label": "Bhutan",
+        "cities": [
+          {
+            "value": "thimphu",
+            "label": "Thimphu (Capital)"
+          },
+          {
+            "value": "paro",
+            "label": "Paro"
+          },
+          {
+            "value": "punakha",
+            "label": "Punakha"
+          },
+          {
+            "value": "phuentsholing",
+            "label": "Phuentsholing"
+          }
+        ]
+      },
+      {
+        "value": "india",
+        "label": "India",
+        "cities": [
+          {
+            "value": "new delhi",
+            "label": "New Delhi (Capital)"
+          },
+          {
+            "value": "mumbai",
+            "label": "Mumbai"
+          },
+          {
+            "value": "bengaluru",
+            "label": "Bengaluru"
+          },
+          {
+            "value": "kolkata",
+            "label": "Kolkata"
+          },
+          {
+            "value": "chennai",
+            "label": "Chennai"
+          },
+          {
+            "value": "hyderabad",
+            "label": "Hyderabad"
+          },
+          {
+            "value": "pune",
+            "label": "Pune"
+          },
+          {
+            "value": "ahmedabad",
+            "label": "Ahmedabad"
+          },
+          {
+            "value": "jaipur",
+            "label": "Jaipur"
+          },
+          {
+            "value": "lucknow",
+            "label": "Lucknow"
+          },
+          {
+            "value": "kanpur",
+            "label": "Kanpur"
+          },
+          {
+            "value": "nagpur",
+            "label": "Nagpur"
+          },
+          {
+            "value": "indore",
+            "label": "Indore"
+          },
+          {
+            "value": "bhopal",
+            "label": "Bhopal"
+          },
+          {
+            "value": "patna",
+            "label": "Patna"
+          }
+        ]
+      },
+      {
+        "value": "maldives",
+        "label": "Maldives",
+        "cities": [
+          {
+            "value": "malé",
+            "label": "Malé (Capital)"
+          }
+        ]
+      },
+      {
+        "value": "nepal",
+        "label": "Nepal",
+        "cities": [
+          {
+            "value": "kathmandu",
+            "label": "Kathmandu (Capital)"
+          },
+          {
+            "value": "pokhara",
+            "label": "Pokhara"
+          },
+          {
+            "value": "lalitpur",
+            "label": "Lalitpur"
+          },
+          {
+            "value": "bhaktapur",
+            "label": "Bhaktapur"
+          }
+        ]
+      },
+      {
+        "value": "pakistan",
+        "label": "Pakistan",
+        "cities": [
+          {
+            "value": "islamabad",
+            "label": "Islamabad (Capital)"
+          },
+          {
+            "value": "karachi",
+            "label": "Karachi"
+          },
+          {
+            "value": "lahore",
+            "label": "Lahore"
+          },
+          {
+            "value": "faisalabad",
+            "label": "Faisalabad"
+          },
+          {
+            "value": "rawalpindi",
+            "label": "Rawalpindi"
+          },
+          {
+            "value": "multan",
+            "label": "Multan"
+          },
+          {
+            "value": "gujranwala",
+            "label": "Gujranwala"
+          },
+          {
+            "value": "peshawar",
+            "label": "Peshawar"
+          },
+          {
+            "value": "quetta",
+            "label": "Quetta"
+          }
+        ]
+      },
+      {
+        "value": "sri lanka",
+        "label": "Sri Lanka",
+        "cities": [
+          {
+            "value": "colombo",
+            "label": "Colombo"
+          },
+          {
+            "value": "dehiwala-mount lavinia",
+            "label": "Dehiwala-Mount Lavinia"
+          },
+          {
+            "value": "moratuwa",
+            "label": "Moratuwa"
+          },
+          {
+            "value": "sri jayawardenepura kotte",
+            "label": "Sri Jayawardenepura Kotte (Administrative Capital)"
+          },
+          {
+            "value": "negombo",
+            "label": "Negombo"
+          },
+          {
+            "value": "galle",
+            "label": "Galle"
+          },
+          {
+            "value": "kandy",
+            "label": "Kandy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "oceania",
+    "label": "Oceania",
+    "countries": [
+      {
+        "value": "australia",
+        "label": "Australia",
+        "cities": [
+          { "value": "canberra", "label": "Canberra (Capital)" },
+          { "value": "sydney", "label": "Sydney" },
+          { "value": "melbourne", "label": "Melbourne" },
+          { "value": "brisbane", "label": "Brisbane" },
+          { "value": "perth", "label": "Perth" },
+          { "value": "adelaide", "label": "Adelaide" },
+          { "value": "gold coast", "label": "Gold Coast" },
+          { "value": "newcastle", "label": "Newcastle" },
+          { "value": "hobart", "label": "Hobart" },
+          { "value": "darwin", "label": "Darwin" }
+        ]
+      },
+      {
+        "value": "fiji",
+        "label": "Fiji",
+        "cities": [
+          { "value": "suva", "label": "Suva (Capital)" },
+          { "value": "lautoka", "label": "Lautoka" },
+          { "value": "nadi", "label": "Nadi" }
+        ]
+      },
+      {
+        "value": "kiribati",
+        "label": "Kiribati",
+        "cities": [
+          { "value": "south tarawa", "label": "South Tarawa (Capital)" }
+        ]
+      },
+      {
+        "value": "marshall islands",
+        "label": "Marshall Islands",
+        "cities": [{ "value": "majuro", "label": "Majuro (Capital)" }]
+      },
+      {
+        "value": "micronesia (federated countries of)",
+        "label": "Micronesia (Federated countries of)",
+        "cities": [
+          { "value": "palikir", "label": "Palikir (Capital)" },
+          { "value": "weno", "label": "Weno" }
+        ]
+      },
+      {
+        "value": "nauru",
+        "label": "Nauru",
+        "cities": [{ "value": "yaren", "label": "Yaren (de facto Capital)" }]
+      },
+      {
+        "value": "new zealand",
+        "label": "New Zealand",
+        "cities": [
+          { "value": "wellington", "label": "Wellington (Capital)" },
+          { "value": "auckland", "label": "Auckland" },
+          { "value": "christchurch", "label": "Christchurch" },
+          { "value": "hamilton", "label": "Hamilton" },
+          { "value": "tauranga", "label": "Tauranga" },
+          { "value": "dunedin", "label": "Dunedin" },
+          { "value": "napier", "label": "Napier" }
+        ]
+      },
+      {
+        "value": "palau",
+        "label": "Palau",
+        "cities": [
+          { "value": "ngerulmud", "label": "Ngerulmud (Capital)" },
+          { "value": "koror", "label": "Koror" }
+        ]
+      },
+      {
+        "value": "papua new guinea",
+        "label": "Papua New Guinea",
+        "cities": [
+          { "value": "port moresby", "label": "Port Moresby (Capital)" },
+          { "value": "lae", "label": "Lae" },
+          { "value": "mount hagen", "label": "Mount Hagen" },
+          { "value": "madang", "label": "Madang" },
+          { "value": "kokopo", "label": "Kokopo" }
+        ]
+      },
+      {
+        "value": "samoa",
+        "label": "Samoa",
+        "cities": [{ "value": "apia", "label": "Apia (Capital)" }]
+      },
+      {
+        "value": "solomon islands",
+        "label": "Solomon Islands",
+        "cities": [{ "value": "honiara", "label": "Honiara (Capital)" }]
+      },
+      {
+        "value": "tonga",
+        "label": "Tonga",
+        "cities": [{ "value": "nuku'alofa", "label": "Nuku'alofa (Capital)" }]
+      },
+      {
+        "value": "tuvalu",
+        "label": "Tuvalu",
+        "cities": [{ "value": "funafuti", "label": "Funafuti (Capital)" }]
+      },
+      {
+        "value": "vanuatu",
+        "label": "Vanuatu",
+        "cities": [{ "value": "port vila", "label": "Port Vila (Capital)" }]
+      },
+      {
+        "value": "cook islands",
+        "label": "Cook Islands",
+        "cities": [{ "value": "avarua", "label": "Avarua (Capital)" }]
+      }
+    ]
+  },
+  {
+    "value": "central america",
+    "label": "Central America",
+    "countries": [
+      {
+        "value": "belize",
+        "label": "Belize",
+        "cities": [
+          { "value": "belmopan (capital)", "label": "Belmopan (Capital)" },
+          { "value": "belize city", "label": "Belize City" },
+          { "value": "san ignacio", "label": "San Ignacio" },
+          { "value": "orange walk town", "label": "Orange Walk Town" }
+        ]
+      },
+      {
+        "value": "costa rica",
+        "label": "Costa Rica",
+        "cities": [
+          { "value": "san josé (capital)", "label": "San José (Capital)" },
+          { "value": "limón", "label": "Limón" },
+          { "value": "alajuela", "label": "Alajuela" },
+          { "value": "heredia", "label": "Heredia" },
+          { "value": "puntarenas", "label": "Puntarenas" },
+          { "value": "cartago", "label": "Cartago" }
+        ]
+      },
+      {
+        "value": "el salvador",
+        "label": "El Salvador",
+        "cities": [
+          {
+            "value": "san salvador (capital)",
+            "label": "San Salvador (Capital)"
+          },
+          { "value": "santa ana", "label": "Santa Ana" },
+          { "value": "san miguel", "label": "San Miguel" },
+          { "value": "soyapango", "label": "Soyapango" },
+          { "value": "santa tecla", "label": "Santa Tecla" }
+        ]
+      },
+      {
+        "value": "guatemala",
+        "label": "Guatemala",
+        "cities": [
+          {
+            "value": "guatemala city (capital)",
+            "label": "Guatemala City (Capital)"
+          },
+          { "value": "quetzaltenango", "label": "Quetzaltenango" },
+          { "value": "mixco", "label": "Mixco" },
+          { "value": "villa nueva", "label": "Villa Nueva" },
+          { "value": "escuintla", "label": "Escuintla" }
+        ]
+      },
+      {
+        "value": "honduras",
+        "label": "Honduras",
+        "cities": [
+          {
+            "value": "tegucigalpa (capital)",
+            "label": "Tegucigalpa (Capital)"
+          },
+          { "value": "san pedro sula", "label": "San Pedro Sula" },
+          { "value": "choloma", "label": "Choloma" },
+          { "value": "la ceiba", "label": "La Ceiba" },
+          { "value": "el progreso", "label": "El Progreso" }
+        ]
+      },
+      {
+        "value": "nicaragua",
+        "label": "Nicaragua",
+        "cities": [
+          { "value": "managua (capital)", "label": "Managua (Capital)" },
+          { "value": "león", "label": "León" },
+          { "value": "masaya", "label": "Masaya" },
+          { "value": "granada", "label": "Granada" },
+          { "value": "chinandega", "label": "Chinandega" }
+        ]
+      },
+      {
+        "value": "panama",
+        "label": "Panama",
+        "cities": [
+          {
+            "value": "panama city (capital)",
+            "label": "Panama City (Capital)"
+          },
+          { "value": "san miguelito", "label": "San Miguelito" },
+          { "value": "david", "label": "David" },
+          { "value": "colón", "label": "Colón" },
+          { "value": "la chorrera", "label": "La Chorrera" }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "south america",
+    "label": "South America",
+    "countries": [
+      {
+        "value": "argentina",
+        "label": "Argentina",
+        "cities": [
+          { "value": "buenos aires", "label": "Buenos Aires" },
+          { "value": "córdoba", "label": "Córdoba" },
+          { "value": "rosario", "label": "Rosario" },
+          { "value": "mendoza", "label": "Mendoza" },
+          { "value": "san miguel de tucumán", "label": "San Miguel de Tucumán" }
+        ]
+      },
+      {
+        "value": "bolivia",
+        "label": "Bolivia",
+        "cities": [
+          { "value": "sucre", "label": "Sucre" },
+          { "value": "la paz", "label": "La Paz" },
+          {
+            "value": "santa cruz de la sierra",
+            "label": "Santa Cruz de la Sierra"
+          },
+          { "value": "cochabamba", "label": "Cochabamba" },
+          { "value": "oruro", "label": "Oruro" }
+        ]
+      },
+      {
+        "value": "brazil",
+        "label": "Brazil",
+        "cities": [
+          { "value": "brasília (capital)", "label": "Brasília (Capital)" },
+          { "value": "são paulo", "label": "São Paulo" },
+          { "value": "rio de janeiro", "label": "Rio de Janeiro" },
+          { "value": "salvador", "label": "Salvador" },
+          { "value": "belo horizonte", "label": "Belo Horizonte" }
+        ]
+      },
+      {
+        "value": "chile",
+        "label": "Chile",
+        "cities": [
+          { "value": "santiago (capital)", "label": "Santiago (Capital)" },
+          { "value": "valparaíso", "label": "Valparaíso" },
+          { "value": "concepción", "label": "Concepción" },
+          { "value": "la serena", "label": "La Serena" },
+          { "value": "antofagasta", "label": "Antofagasta" }
+        ]
+      },
+      {
+        "value": "colombia",
+        "label": "Colombia",
+        "cities": [
+          { "value": "bogotá (capital)", "label": "Bogotá (Capital)" },
+          { "value": "medellín", "label": "Medellín" },
+          { "value": "cali", "label": "Cali" },
+          { "value": "barranquilla", "label": "Barranquilla" },
+          { "value": "cartagena", "label": "Cartagena" }
+        ]
+      },
+      {
+        "value": "ecuador",
+        "label": "Ecuador",
+        "cities": [
+          { "value": "quito (capital)", "label": "Quito (Capital)" },
+          { "value": "guayaquil", "label": "Guayaquil" },
+          { "value": "cuenca", "label": "Cuenca" },
+          { "value": "santo domingo", "label": "Santo Domingo" },
+          { "value": "machala", "label": "Machala" }
+        ]
+      },
+      {
+        "value": "guyana",
+        "label": "Guyana",
+        "cities": [
+          { "value": "georgetown (capital)", "label": "Georgetown (Capital)" },
+          { "value": "linden", "label": "Linden" },
+          { "value": "new amsterdam", "label": "New Amsterdam" },
+          { "value": "bartica", "label": "Bartica" },
+          { "value": "skeldon", "label": "Skeldon" }
+        ]
+      },
+      {
+        "value": "paraguay",
+        "label": "Paraguay",
+        "cities": [
+          { "value": "asunción (capital)", "label": "Asunción (Capital)" },
+          { "value": "ciudad del este", "label": "Ciudad del Este" },
+          { "value": "san lorenzo", "label": "San Lorenzo" },
+          { "value": "luque", "label": "Luque" },
+          { "value": "capiatá", "label": "Capiatá" }
+        ]
+      },
+      {
+        "value": "peru",
+        "label": "Peru",
+        "cities": [
+          { "value": "lima (capital)", "label": "Lima (Capital)" },
+          { "value": "arequipa", "label": "Arequipa" },
+          { "value": "trujillo", "label": "Trujillo" },
+          { "value": "chiclayo", "label": "Chiclayo" },
+          { "value": "iquitos", "label": "Iquitos" }
+        ]
+      },
+      {
+        "value": "suriname",
+        "label": "Suriname",
+        "cities": [
+          { "value": "paramaribo (capital)", "label": "Paramaribo (Capital)" },
+          { "value": "lelydorp", "label": "Lelydorp" },
+          { "value": "nieuw nickerie", "label": "Nieuw Nickerie" },
+          { "value": "moengo", "label": "Moengo" },
+          { "value": "nieuw amsterdam", "label": "Nieuw Amsterdam" }
+        ]
+      },
+      {
+        "value": "uruguay",
+        "label": "Uruguay",
+        "cities": [
+          { "value": "montevideo (capital)", "label": "Montevideo (Capital)" },
+          { "value": "salto", "label": "Salto" },
+          { "value": "ciudad de la costa", "label": "Ciudad de la Costa" },
+          { "value": "paysandú", "label": "Paysandú" },
+          { "value": "las piedras", "label": "Las Piedras" }
+        ]
+      },
+      {
+        "value": "venezuela",
+        "label": "Venezuela",
+        "cities": [
+          { "value": "caracas (capital)", "label": "Caracas (Capital)" },
+          { "value": "maracaibo", "label": "Maracaibo" },
+          { "value": "valencia", "label": "Valencia" },
+          { "value": "barquisimeto", "label": "Barquisimeto" },
+          { "value": "maracay", "label": "Maracay" }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "caribbean",
+    "label": "Caribbean",
+    "countries": [
+      {
+        "value": "anguilla (british overseas territory)",
+        "label": "Anguilla (British Overseas Territory)",
+        "cities": [
+          {
+            "value": "the valley (capital)",
+            "label": "The Valley (Capital)"
+          }
+        ]
+      },
+      {
+        "value": "antigua and barbuda",
+        "label": "Antigua and Barbuda",
+        "cities": [
+          {
+            "value": "st. john's (capital)",
+            "label": "St. John's (Capital)"
+          },
+          {
+            "value": "all saints",
+            "label": "All Saints"
+          },
+          {
+            "value": "liberta",
+            "label": "Liberta"
+          },
+          {
+            "value": "potter's village",
+            "label": "Potter's Village"
+          }
+        ]
+      },
+      {
+        "value": "aruba (constituent country of the kingdom of the netherlands)",
+        "label": "Aruba (Constituent Country of the Kingdom of the Netherlands)",
+        "cities": [
+          {
+            "value": "oranjestad (capital)",
+            "label": "Oranjestad (Capital)"
+          },
+          {
+            "value": "noord",
+            "label": "Noord"
+          },
+          {
+            "value": "san nicolaas",
+            "label": "San Nicolaas"
+          }
+        ]
+      },
+      {
+        "value": "bahamas",
+        "label": "Bahamas",
+        "cities": [
+          {
+            "value": "nassau (capital)",
+            "label": "Nassau (Capital)"
+          },
+          {
+            "value": "freeport",
+            "label": "Freeport"
+          },
+          {
+            "value": "west end",
+            "label": "West End"
+          },
+          {
+            "value": "coopers town",
+            "label": "Coopers Town"
+          }
+        ]
+      },
+      {
+        "value": "barbados",
+        "label": "Barbados",
+        "cities": [
+          {
+            "value": "bridgetown (capital)",
+            "label": "Bridgetown (Capital)"
+          },
+          {
+            "value": "speightstown",
+            "label": "Speightstown"
+          },
+          {
+            "value": "oistins",
+            "label": "Oistins"
+          },
+          {
+            "value": "bathsheba",
+            "label": "Bathsheba"
+          }
+        ]
+      },
+      {
+        "value": "bonaire (special municipality of the netherlands)",
+        "label": "Bonaire (Special Municipality of the Netherlands)",
+        "cities": [
+          {
+            "value": "kralendijk (capital)",
+            "label": "Kralendijk (Capital)"
+          }
+        ]
+      },
+      {
+        "value": "british virgin islands (british overseas territory)",
+        "label": "British Virgin Islands (British Overseas Territory)",
+        "cities": [
+          {
+            "value": "road town (capital)",
+            "label": "Road Town (Capital)"
+          },
+          {
+            "value": "spanish town",
+            "label": "Spanish Town"
+          },
+          {
+            "value": "the settlement",
+            "label": "The Settlement"
+          }
+        ]
+      },
+      {
+        "value": "cayman islands (british overseas territory)",
+        "label": "Cayman Islands (British Overseas Territory)",
+        "cities": [
+          {
+            "value": "george town (capital)",
+            "label": "George Town (Capital)"
+          },
+          {
+            "value": "west bay",
+            "label": "West Bay"
+          },
+          {
+            "value": "bodden town",
+            "label": "Bodden Town"
+          }
+        ]
+      },
+      {
+        "value": "cuba",
+        "label": "Cuba",
+        "cities": [
+          {
+            "value": "havana (capital)",
+            "label": "Havana (Capital)"
+          },
+          {
+            "value": "santiago de cuba",
+            "label": "Santiago de Cuba"
+          },
+          {
+            "value": "camagüey",
+            "label": "Camagüey"
+          },
+          {
+            "value": "holguín",
+            "label": "Holguín"
+          },
+          {
+            "value": "santa clara",
+            "label": "Santa Clara"
+          }
+        ]
+      },
+      {
+        "value": "curaçao",
+        "label": "Curaçao",
+        "cities": [
+          {
+            "value": "willemstad",
+            "label": "Willemstad"
+          }
+        ]
+      },
+      {
+        "value": "dominica",
+        "label": "Dominica",
+        "cities": [
+          {
+            "value": "roseau (capital)",
+            "label": "Roseau (Capital)"
+          },
+          {
+            "value": "portsmouth",
+            "label": "Portsmouth"
+          },
+          {
+            "value": "marigot",
+            "label": "Marigot"
+          }
+        ]
+      },
+      {
+        "value": "dominican republic",
+        "label": "Dominican Republic",
+        "cities": [
+          {
+            "value": "santo domingo (capital)",
+            "label": "Santo Domingo (Capital)"
+          },
+          {
+            "value": "santiago",
+            "label": "Santiago"
+          },
+          {
+            "value": "la romana",
+            "label": "La Romana"
+          },
+          {
+            "value": "san pedro de macorís",
+            "label": "San Pedro de Macorís"
+          },
+          {
+            "value": "punta cana",
+            "label": "Punta Cana"
+          }
+        ]
+      },
+      {
+        "value": "grenada",
+        "label": "Grenada",
+        "cities": [
+          {
+            "value": "st. george's (capital)",
+            "label": "St. George's (Capital)"
+          },
+          {
+            "value": "gouyave",
+            "label": "Gouyave"
+          },
+          {
+            "value": "grenville",
+            "label": "Grenville"
+          }
+        ]
+      },
+      {
+        "value": "guadeloupe (overseas department of france)",
+        "label": "Guadeloupe (Overseas Department of France)",
+        "cities": [
+          {
+            "value": "basse-terre (capital)",
+            "label": "Basse-Terre (Capital)"
+          },
+          {
+            "value": "pointe-à-pitre",
+            "label": "Pointe-à-Pitre"
+          },
+          {
+            "value": "les abymes",
+            "label": "Les Abymes"
+          },
+          {
+            "value": "baie-mahault",
+            "label": "Baie-Mahault"
+          }
+        ]
+      },
+      {
+        "value": "haiti",
+        "label": "Haiti",
+        "cities": [
+          {
+            "value": "port-au-prince (capital)",
+            "label": "Port-au-Prince (Capital)"
+          },
+          {
+            "value": "cap-haïtien",
+            "label": "Cap-Haïtien"
+          },
+          {
+            "value": "gonaïves",
+            "label": "Gonaïves"
+          },
+          {
+            "value": "les cayes",
+            "label": "Les Cayes"
+          },
+          {
+            "value": "jacmel",
+            "label": "Jacmel"
+          }
+        ]
+      },
+      {
+        "value": "jamaica",
+        "label": "Jamaica",
+        "cities": [
+          {
+            "value": "kingston (capital)",
+            "label": "Kingston (Capital)"
+          },
+          {
+            "value": "montego bay",
+            "label": "Montego Bay"
+          },
+          {
+            "value": "spanish town",
+            "label": "Spanish Town"
+          },
+          {
+            "value": "portmore",
+            "label": "Portmore"
+          },
+          {
+            "value": "ocho rios",
+            "label": "Ocho Rios"
+          }
+        ]
+      },
+      {
+        "value": "martinique (overseas department of france)",
+        "label": "Martinique (Overseas Department of France)",
+        "cities": [
+          {
+            "value": "fort-de-france (capital)",
+            "label": "Fort-de-France (Capital)"
+          },
+          {
+            "value": "le lamentin",
+            "label": "Le Lamentin"
+          },
+          {
+            "value": "le robert",
+            "label": "Le Robert"
+          },
+          {
+            "value": "schoelcher",
+            "label": "Schoelcher"
+          }
+        ]
+      },
+      {
+        "value": "montserrat (british overseas territory)",
+        "label": "Montserrat (British Overseas Territory)",
+        "cities": [
+          {
+            "value": "plymouth (abandoned",
+            "label": "Plymouth (Abandoned"
+          },
+          {
+            "value": "original capital)",
+            "label": "Original Capital)"
+          },
+          {
+            "value": "brades (de facto capital)",
+            "label": "Brades (De Facto Capital)"
+          },
+          {
+            "value": "little bay (new capital under construction)",
+            "label": "Little Bay (New Capital Under Construction)"
+          }
+        ]
+      },
+      {
+        "value": "puerto rico (territory of the united countries)",
+        "label": "Puerto Rico (Territory of the United countries)",
+        "cities": [
+          {
+            "value": "san juan (capital)",
+            "label": "San Juan (Capital)"
+          },
+          {
+            "value": "ponce",
+            "label": "Ponce"
+          },
+          {
+            "value": "mayagüez",
+            "label": "Mayagüez"
+          },
+          {
+            "value": "bayamón",
+            "label": "Bayamón"
+          },
+          {
+            "value": "caguas",
+            "label": "Caguas"
+          }
+        ]
+      },
+      {
+        "value": "saba (special municipality of the netherlands)",
+        "label": "Saba (Special Municipality of the Netherlands)",
+        "cities": [
+          {
+            "value": "the bottom (capital)",
+            "label": "The Bottom (Capital)"
+          }
+        ]
+      },
+      {
+        "value": "saint barthélemy (overseas collectivity of france)",
+        "label": "Saint Barthélemy (Overseas Collectivity of France)",
+        "cities": [
+          {
+            "value": "gustavia (capital)",
+            "label": "Gustavia (Capital)"
+          }
+        ]
+      },
+      {
+        "value": "saint kitts and nevis",
+        "label": "Saint Kitts and Nevis",
+        "cities": [
+          {
+            "value": "basseterre (capital of saint kitts)",
+            "label": "Basseterre (Capital of Saint Kitts)"
+          },
+          {
+            "value": "charlestown (capital of nevis)",
+            "label": "Charlestown (Capital of Nevis)"
+          }
+        ]
+      },
+      {
+        "value": "saint lucia",
+        "label": "Saint Lucia",
+        "cities": [
+          {
+            "value": "castries (capital)",
+            "label": "Castries (Capital)"
+          },
+          {
+            "value": "vieux fort",
+            "label": "Vieux Fort"
+          },
+          {
+            "value": "gros islet",
+            "label": "Gros Islet"
+          },
+          {
+            "value": "soufrière",
+            "label": "Soufrière"
+          }
+        ]
+      },
+      {
+        "value": "saint martin (overseas collectivity of france)",
+        "label": "Saint Martin (Overseas Collectivity of France)",
+        "cities": [
+          {
+            "value": "marigot (capital)",
+            "label": "Marigot (Capital)"
+          }
+        ]
+      },
+      {
+        "value": "sint eustatius (special municipality of the netherlands)",
+        "label": "Sint Eustatius (Special Municipality of the Netherlands)",
+        "cities": [
+          {
+            "value": "oranjestad (capital)",
+            "label": "Oranjestad (Capital)"
+          }
+        ]
+      },
+      {
+        "value": "sint maarten",
+        "label": "Sint Maarten",
+        "cities": [
+          {
+            "value": "philipsburg (capital)",
+            "label": "Philipsburg (Capital)"
+          }
+        ]
+      },
+      {
+        "value": "saint vincent and the grenadines",
+        "label": "Saint Vincent and the Grenadines",
+        "cities": [
+          {
+            "value": "kingstown (capital)",
+            "label": "Kingstown (Capital)"
+          },
+          {
+            "value": "kingstown park",
+            "label": "Kingstown Park"
+          },
+          {
+            "value": "georgetown",
+            "label": "Georgetown"
+          },
+          {
+            "value": "byera village",
+            "label": "Byera Village"
+          }
+        ]
+      },
+      {
+        "value": "trinidad and tobago",
+        "label": "Trinidad and Tobago",
+        "cities": [
+          {
+            "value": "port of spain (capital)",
+            "label": "Port of Spain (Capital)"
+          },
+          {
+            "value": "san fernando",
+            "label": "San Fernando"
+          },
+          {
+            "value": "chaguanas",
+            "label": "Chaguanas"
+          },
+          {
+            "value": "arima",
+            "label": "Arima"
+          },
+          {
+            "value": "point fortin",
+            "label": "Point Fortin"
+          }
+        ]
+      },
+      {
+        "value": "turks and caicos islands (british overseas territory)",
+        "label": "Turks and Caicos Islands (British Overseas Territory)",
+        "cities": [
+          {
+            "value": "cockburn town (capital)",
+            "label": "Cockburn Town (Capital)"
+          },
+          {
+            "value": "providenciales",
+            "label": "Providenciales"
+          }
+        ]
+      },
+      {
+        "value": "u.s. virgin islands (territory of the united countries)",
+        "label": "U.S. Virgin Islands (Territory of the United countries)",
+        "cities": [
+          {
+            "value": "charlotte amalie (capital",
+            "label": "Charlotte Amalie (Capital"
+          },
+          {
+            "value": "on saint thomas)",
+            "label": "On Saint Thomas)"
+          },
+          {
+            "value": "christiansted (on saint croix)",
+            "label": "Christiansted (on Saint Croix)"
+          },
+          {
+            "value": "cruz bay (on saint john)",
+            "label": "Cruz Bay (on Saint John)"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "vendor",
+    "route": "/admin/vendor"
+  },
+  {
+    "name": "users",
+    "route": "/admin/users"
+  }
+]
+
+

@@ -1,0 +1,857 @@
+[
+  {
+    "id": "AFG",
+    "value": 855408,
+    "country": "Afghanistan"
+  },
+  {
+    "id": "AGO",
+    "value": 630080,
+    "country": "Angola"
+  },
+  {
+    "id": "ALB",
+    "value": 789148,
+    "country": "Albania"
+  },
+  {
+    "id": "ARE",
+    "value": 672336,
+    "country": "United Arab Emirates"
+  },
+  {
+    "id": "ARG",
+    "value": 180354,
+    "country": "Argentina"
+  },
+  {
+    "id": "ARM",
+    "value": 141102,
+    "country": "Armenia"
+  },
+  {
+    "id": "ATA",
+    "value": 370154,
+    "country": "Antarctica"
+  },
+  {
+    "id": "ATF",
+    "value": 687546,
+    "country": "French Southern and Antarctic Lands"
+  },
+  {
+    "id": "AUT",
+    "value": 662059,
+    "country": "Austria"
+  },
+  {
+    "id": "AZE",
+    "value": 630598,
+    "country": "Azerbaijan"
+  },
+  {
+    "id": "BDI",
+    "value": 618035,
+    "country": "Burundi"
+  },
+  {
+    "id": "BEL",
+    "value": 636628,
+    "country": "Belgium"
+  },
+  {
+    "id": "BEN",
+    "value": 762793,
+    "country": "Benin"
+  },
+  {
+    "id": "BFA",
+    "value": 857698,
+    "country": "Burkina Faso"
+  },
+  {
+    "id": "BGD",
+    "value": 417557,
+    "country": "Bangladesh"
+  },
+  {
+    "id": "BGR",
+    "value": 414450,
+    "country": "Bulgaria"
+  },
+  {
+    "id": "BHS",
+    "value": 17070,
+    "country": "The Bahamas"
+  },
+  {
+    "id": "BIH",
+    "value": 571642,
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "id": "BLR",
+    "value": 680126,
+    "country": "Belarus"
+  },
+  {
+    "id": "BLZ",
+    "value": 76882,
+    "country": "Belize"
+  },
+  {
+    "id": "BOL",
+    "value": 231571,
+    "country": "Bolivia"
+  },
+  {
+    "id": "BRN",
+    "value": 40118,
+    "country": "Brunei"
+  },
+  {
+    "id": "BTN",
+    "value": 803979,
+    "country": "Bhutan"
+  },
+  {
+    "id": "BWA",
+    "value": 157756,
+    "country": "Botswana"
+  },
+  {
+    "id": "CAF",
+    "value": 782529,
+    "country": "Central African Republic"
+  },
+  {
+    "id": "CAN",
+    "value": 869094,
+    "country": "Canada"
+  },
+  {
+    "id": "CHE",
+    "value": 152447,
+    "country": "Switzerland"
+  },
+  {
+    "id": "CHL",
+    "value": 585486,
+    "country": "Chile"
+  },
+  {
+    "id": "CHN",
+    "value": 805027,
+    "country": "China"
+  },
+  {
+    "id": "CIV",
+    "value": 225681,
+    "country": "Ivory Coast"
+  },
+  {
+    "id": "CMR",
+    "value": 704498,
+    "country": "Cameroon"
+  },
+  {
+    "id": "COG",
+    "value": 99637,
+    "country": "Republic of the Congo"
+  },
+  {
+    "id": "COL",
+    "value": 973335,
+    "country": "Colombia"
+  },
+  {
+    "id": "CRI",
+    "value": 757827,
+    "country": "Costa Rica"
+  },
+  {
+    "id": "CUB",
+    "value": 335533,
+    "country": "Cuba"
+  },
+  {
+    "id": "-99",
+    "value": 695682,
+    "country": "Unknown"
+  },
+  {
+    "id": "CYP",
+    "value": 494777,
+    "country": "Cyprus"
+  },
+  {
+    "id": "CZE",
+    "value": 627543,
+    "country": "Czech Republic"
+  },
+  {
+    "id": "DEU",
+    "value": 984139,
+    "country": "Germany"
+  },
+  {
+    "id": "DJI",
+    "value": 674853,
+    "country": "Djibouti"
+  },
+  {
+    "id": "DNK",
+    "value": 80233,
+    "country": "Denmark"
+  },
+  {
+    "id": "DOM",
+    "value": 74120,
+    "country": "Dominican Republic"
+  },
+  {
+    "id": "DZA",
+    "value": 553098,
+    "country": "Algeria"
+  },
+  {
+    "id": "ECU",
+    "value": 682544,
+    "country": "Ecuador"
+  },
+  {
+    "id": "EGY",
+    "value": 438971,
+    "country": "Egypt"
+  },
+  {
+    "id": "ERI",
+    "value": 82480,
+    "country": "Eritrea"
+  },
+  {
+    "id": "ESP",
+  "value": 648604,
+  "country": "Spain"
+},
+{
+  "id": "EST",
+  "value": 641092,
+  "country": "Estonia"
+},
+{
+  "id": "ETH",
+  "value": 962690,
+  "country": "Ethiopia"
+},
+{
+  "id": "FIN",
+  "value": 971487,
+  "country": "Finland"
+},
+{
+  "id": "FJI",
+  "value": 18887,
+  "country": "Fiji"
+},
+{
+  "id": "FLK",
+  "value": 411957,
+  "country": "Falkland Islands"
+},
+{
+  "id": "FRA",
+  "value": 280573,
+  "country": "France"
+},
+{
+  "id": "GAB",
+  "value": 204856,
+  "country": "Gabon"
+},
+{
+  "id": "GBR",
+  "value": 869522,
+  "country": "United Kingdom"
+},
+{
+  "id": "GEO",
+  "value": 680019,
+  "country": "Georgia"
+},
+{
+  "id": "GHA",
+  "value": 62980,
+  "country": "Ghana"
+},
+{
+  "id": "GIN",
+  "value": 911544,
+  "country": "Guinea"
+},
+{
+  "id": "GMB",
+  "value": 501632,
+  "country": "The Gambia"
+},
+{
+  "id": "GNB",
+  "value": 355605,
+  "country": "Guinea-Bissau"
+},
+{
+  "id": "GNQ",
+  "value": 865485,
+  "country": "Equatorial Guinea"
+},
+{
+  "id": "GRC",
+  "value": 761506,
+  "country": "Greece"
+},
+{
+  "id": "GTM",
+  "value": 69769,
+  "country": "Guatemala"
+},
+{
+  "id": "GUY",
+  "value": 539384,
+  "country": "Guyana"
+},
+{
+  "id": "HND",
+  "value": 439579,
+  "country": "Honduras"
+},
+{
+  "id": "HRV",
+  "value": 567671,
+  "country": "Croatia"
+},
+{
+  "id": "HTI",
+  "value": 500791,
+  "country": "Haiti"
+},
+{
+  "id": "HUN",
+  "value": 827176,
+  "country": "Hungary"
+},
+{
+  "id": "IDN",
+  "value": 142426,
+  "country": "Indonesia"
+},
+{
+  "id": "IND",
+  "value": 280731,
+  "country": "India"
+},
+{
+  "id": "IRL",
+  "value": 81747,
+  "country": "Ireland"
+},
+{
+  "id": "IRN",
+  "value": 945191,
+  "country": "Iran"
+},
+{
+  "id": "IRQ",
+  "value": 855472,
+  "country": "Iraq"
+},
+{
+  "id": "ISL",
+  "value": 675630,
+  "country": "Iceland"
+},
+{
+  "id": "ISR",
+  "value": 744089,
+  "country": "Israel"
+},
+{
+  "id": "ITA",
+  "value": 564646,
+  "country": "Italy"
+},
+{
+  "id": "JAM",
+  "value": 613070,
+  "country": "Jamaica"
+},
+{
+  "id": "JOR",
+  "value": 893094,
+  "country": "Jordan"
+},
+{
+  "id": "JPN",
+  "value": 607182,
+  "country": "Japan"
+},
+{
+  "id": "KAZ",
+  "value": 709361,
+  "country": "Kazakhstan"
+},
+{
+  "id": "KEN",
+  "value": 738181,
+  "country": "Kenya"
+},
+{
+  "id": "KGZ",
+  "value": 438464,
+  "country": "Kyrgyzstan"
+},
+{
+  "id": "KHM",
+  "value": 617406,
+  "country": "Cambodia"
+},
+{
+  "id": "OSA",
+  "value": 865708,
+  "country": "United Nations"
+},
+{
+  "id": "KWT",
+  "value": 96361,
+  "country": "Kuwait"
+},
+{
+  "id": "LAO",
+  "value": 183135,
+  "country": "Laos"
+},
+{
+  "id": "LBN",
+  "value": 397301,
+  "country": "Lebanon"
+},
+{
+  "id": "LBR",
+  "value": 853130,
+  "country": "Liberia"
+},
+{
+  "id": "LBY",
+  "value": 448509,
+  "country": "Libya"
+},
+{
+  "id": "LKA",
+  "value": 197860,
+  "country": "Sri Lanka"
+},
+{
+  "id": "LSO",
+  "value": 617623,
+  "country": "Lesotho"
+},
+{
+  "id": "LTU",
+  "value": 955677,
+  "country": "Lithuania"
+},
+{
+  "id": "LUX",
+  "value": 136282,
+  "country": "Luxembourg"
+},
+{
+  "id": "LVA",
+  "value": 280180,
+  "country": "Latvia"
+},
+{
+  "id": "MAR",
+  "value": 898856,
+  "country": "Morocco"
+},
+{
+  "id": "MDA",
+  "value": 211941,
+  "country": "Moldova"
+},
+{
+  "id": "MDG",
+  "value": 645377,
+  "country": "Madagascar"
+},
+{
+  "id": "MEX",
+  "value": 576734,
+  "country": "Mexico"
+},
+{
+  "id": "MKD",
+  "value": 901971,
+  "country": "North Macedonia"
+},
+{
+  "id": "MLI",
+  "value": 884579,
+  "country": "Mali"
+},
+{
+  "id": "MMR",
+  "value": 591255,
+  "country": "Myanmar"
+},
+{
+  "id": "MNE",
+  "value": 687208,
+  "country": "Montenegro"
+},
+{
+  "id": "MNG",
+  "value": 138711,
+  "country": "Mongolia"
+},
+{
+  "id": "MOZ",
+  "value": 245178,
+  "country": "Mozambique"
+},
+{
+  "id": "MRT",
+  "value": 960339,
+  "country": "Mauritania"
+},
+{
+  "id": "MWI",
+  "value": 969638,
+  "country": "Malawi"
+},
+{
+  "id": "MYS",
+  "value": 942610,
+  "country": "Malaysia"
+},
+{
+  "id": "NAM",
+  "value": 430175,
+  "country": "Namibia"
+},
+{
+  "id": "NCL",
+  "value": 312015,
+  "country": "New Caledonia"
+},
+{
+  "id": "NER",
+  "value": 587528,
+  "country": "Niger"
+},
+{
+  "id": "NGA",
+  "value": 253619,
+  "country": "Nigeria"
+},
+{
+  "id": "NIC",
+  "value": 963301,
+  "country": "Nicaragua"
+},
+{
+  "id": "NLD",
+  "value": 71365,
+  "country": "Netherlands"
+},
+{
+  "id": "NOR",
+  "value": 95541,
+  "country": "Norway"
+},
+{
+  "id": "NPL",
+  "value": 947617,
+  "country": "Nepal"
+},
+{
+  "id": "NZL",
+  "value": 514258,
+  "country": "New Zealand"
+},
+{
+  "id": "OMN",
+  "value": 140635,
+  "country": "Oman"
+},
+{
+  "id": "PAK",
+  "value": 478088,
+  "country": "Pakistan"
+},
+{
+  "id": "PAN",
+  "value": 215368,
+  "country": "Panama"
+},
+{
+  "id": "PER",
+  "value": 96800,
+  "country": "Peru"
+},
+{
+  "id": "PHL",
+  "value": 686393,
+  "country": "Philippines"
+},
+{
+  "id": "PNG",
+  "value": 56108,
+  "country": "Papua New Guinea"
+},
+{
+  "id": "POL",
+  "value": 226280,
+  "country": "Poland"
+},
+{
+  "id": "PRI",
+  "value": 951411,
+  "country": "Puerto Rico"
+},
+{
+  "id": "PRT",
+  "value": 272587,
+  "country": "Portugal"
+},
+{
+  "id": "PRY",
+  "value": 349010,
+  "country": "Paraguay"
+},
+{
+  "id": "QAT",
+  "value": 913857,
+  "country": "Qatar"
+},
+{
+  "id": "ROU",
+  "value": 322469,
+  "country": "Romania"
+},
+{
+  "id": "RUS",
+  "value": 53024,
+  "country": "Russia"
+},
+{
+  "id": "RWA",
+  "value": 148584,
+  "country": "Rwanda"
+},
+{
+  "id": "ESH",
+  "value": 686409,
+  "country": "Western Sahara"
+},
+{
+  "id": "SAU",
+  "value": 584518,
+  "country": "Saudi Arabia"
+},
+{
+  "id": "SDN",
+  "value": 797452,
+  "country": "Sudan"
+},
+{
+  "id": "SDS",
+  "value": 429530,
+  "country": "South Sudan"
+},
+{
+  "id": "SEN",
+  "value": 346246,
+  "country": "Senegal"
+},
+{
+  "id": "SLB",
+  "value": 645131,
+  "country": "Solomon Islands"
+},
+{
+  "id": "SLE",
+  "value": 862694,
+  "country": "Sierra Leone"
+},
+{
+  "id": "SLV",
+  "value": 766358,
+  "country": "El Salvador"
+},
+{
+  "id": "ABV",
+  "value": 547790,
+  "country": "Abkhazia"
+},
+{
+  "id": "SOM",
+  "value": 668787,
+  "country": "Somalia"
+},
+{
+  "id": "SRB",
+  "value": 310498,
+  "country": "Serbia"
+},
+{
+  "id": "SUR",
+  "value": 442161,
+  "country": "Suriname"
+},
+{
+  "id": "SVK",
+  "value": 565151,
+  "country": "Slovakia"
+},
+{
+  "id": "SVN",
+  "value": 994157,
+  "country": "Slovenia"
+},
+{
+  "id": "SWZ",
+  "value": 823242,
+  "country": "Eswatini"
+},
+{
+  "id": "SYR",
+  "value": 359738,
+  "country": "Syria"
+},
+{
+  "id": "TCD",
+  "value": 978910,
+  "country": "Chad"
+},
+{
+  "id": "TGO",
+  "value": 970091,
+  "country": "Togo"
+},
+{
+  "id": "THA",
+  "value": 920944,
+  "country": "Thailand"
+},
+{
+  "id": "TJK",
+  "value": 54076,
+  "country": "Tajikistan"
+},
+{
+  "id": "TKM",
+  "value": 610442,
+  "country": "Turkmenistan"
+},
+{
+  "id": "TLS",
+  "value": 842648,
+  "country": "Timor-Leste"
+},
+{
+  "id": "TTO",
+  "value": 895052,
+  "country": "Trinidad and Tobago"
+},
+{
+  "id": "TUN",
+  "value": 361545,
+  "country": "Tunisia"
+},
+{
+  "id": "TUR",
+  "value": 676758,
+  "country": "Turkey"
+},
+{
+  "id": "TWN",
+  "value": 296607,
+  "country": "Taiwan"
+},
+{
+  "id": "TZA",
+  "value": 485829,
+  "country": "Tanzania"
+},
+{
+  "id": "UGA",
+  "value": 700955,
+  "country": "Uganda"
+},
+{
+  "id": "UKR",
+  "value": 208937,
+  "country": "Ukraine"
+},
+{
+  "id": "URY",
+  "value": 767013,
+  "country": "Uruguay"
+},
+{
+  "id": "USA",
+  "value": 3,
+  "country": "United States"
+},
+{
+  "id": "UZB",
+  "value": 454453,
+  "country": "Uzbekistan"
+},
+{
+  "id": "VEN",
+  "value": 302207,
+  "country": "Venezuela"
+},
+{
+  "id": "VNM",
+  "value": 70476,
+  "country": "Vietnam"
+},
+{
+  "id": "VUT",
+  "value": 247976,
+  "country": "Vanuatu"
+},
+{
+  "id": "PSE",
+  "value": 122792,
+  "country": "State of Palestine"
+},
+{
+  "id": "YEM",
+  "value": 265845,
+  "country": "Yemen"
+},
+{
+  "id": "ZAF",
+  "value": 771532,
+  "country": "South Africa"
+},
+{
+  "id": "COD",
+  "value": 777684,
+  "country": "Democratic Republic of the Congo"
+},
+{
+  "id": "ZMB",
+  "value": 499001,
+  "country": "Zambia"
+},
+{
+  "id": "ZWE",
+  "value": 451940,
+  "country": "Zimbabwe"
+}
+]
